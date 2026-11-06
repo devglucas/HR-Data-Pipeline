@@ -188,7 +188,7 @@ janela: agosto de 2024 ainda está dentro dos 12 meses, então a taxa só deve c
 ![Turnover por área](output/charts/03_turnover_por_area.png)
 
 Customer Success tem turnover anualizado de 48%, contra 9% em Tecnologia. Esse número inclui a
-reestruturação, mas a área já era a que mais perdia gente antes dela.
+reestruturação, mas a taxa já era alta antes dela: 37%, empatada com o Comercial.
 
 ### Um gestor concentra as saídas no Comercial
 
@@ -210,7 +210,7 @@ entre -1,5% e +2,2%. Grupos pequenos oscilam bastante, como os +9,5% de Analista
 ![Saída no primeiro ano](output/charts/06_saida_no_primeiro_ano.png)
 
 Só entra em cada barra quem já teve tempo de completar o prazo. O Comercial perde 21% dos admitidos
-em 90 dias, o que aponta para contratação ou integração, e não para falta de carreira.
+em 90 dias, o que sugere olhar primeiro para a contratação e a integração.
 
 ### Auditoria da folha
 
