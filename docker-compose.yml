@@ -1,0 +1,20 @@
+services:
+  postgres:
+    image: postgres:17-alpine
+    container_name: rh-postgres
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-rh_admin}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-senha-local-de-desenvolvimento}
+      POSTGRES_DB: ${POSTGRES_DB:-rh}
+    ports:
+      - "127.0.0.1:${POSTGRES_PORT:-5433}:5432"
+    volumes:
+      - rh-dados:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER} -d $${POSTGRES_DB}"]
+      interval: 2s
+      timeout: 3s
+      retries: 30
+
+volumes:
+  rh-dados:

@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Segredos: nunca versionar
+.env
+
+# Logs gerados pelo pipeline
+output/logs/
+
+# SO / editores
+.DS_Store
+.vscode/
+.idea/
