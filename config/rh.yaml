@@ -1,0 +1,48 @@
+# Catálogos e regras do pipeline. Mudar uma regra não exige alterar código.
+
+periodo:
+  inicio: "2023-01"
+  fim: "2025-06"
+
+niveis:                        # ordem da carreira e multiplicador sobre o salário base da família
+  Júnior: 1.0
+  Pleno: 1.4
+  Sênior: 1.9
+  Coordenador: 2.4
+  Gerente: 3.6
+  Diretor: 6.0
+  Presidente: 11.0
+
+faixa_salarial: {minimo: 0.45, maximo: 2.0}    # sobre base x multiplicador do cargo
+
+departamentos:                 # o código é estável; o nome pode mudar sem criar nova versão no histórico
+  TECNOLOGIA: {apelidos: [Tecnologia], familia: Engenheiro de Software, abreviado: ENG SOFTWARE, base: 7500}
+  OPERACOES: {apelidos: [Operações], familia: Operador de Logística, abreviado: OPER LOGISTICA, base: 2600}
+  ATENDIMENTO: {apelidos: [Atendimento, Customer Success], familia: Atendente, abreviado: ATENDENTE, base: 2300}
+  COMERCIAL: {apelidos: [Comercial], familia: Consultor Comercial, abreviado: CONS COMERCIAL, base: 4200}
+  FINANCEIRO: {apelidos: [Financeiro], familia: Analista Financeiro, abreviado: ANL FINANCEIRO, base: 5200}
+  PESSOAS: {apelidos: [Pessoas], familia: Analista de RH, abreviado: ANL RH, base: 4800}
+
+abreviacoes_nivel: {JR: Júnior, PL: Pleno, SR: Sênior}
+
+presidente: {nome: Presidente, base: 9000}
+
+unidades: [São Paulo, Campinas, Recife, Curitiba]
+
+contratos: [CLT, Temporário]
+
+motivos_voluntarios: [Pedido de demissão]
+
+motivos_desligamento:
+  - Pedido de demissão
+  - Dispensa sem justa causa
+  - Justa causa
+  - Fim de contrato
+
+afastamentos:
+  ferias: [ferias, férias]
+  atestado: [atestado, atestado medico]
+  licenca_maternidade: [licenca_maternidade, licença maternidade]
+
+anonimizacao:
+  k: 5                         # tamanho mínimo de grupo com os mesmos quase-identificadores
