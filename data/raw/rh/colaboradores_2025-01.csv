@@ -1,0 +1,730 @@
+matricula,nome_completo,cpf,data_nascimento,genero,data_admissao,data_desligamento,motivo_desligamento,cargo,area,unidade,matricula_gestor,salario_base,contrato,inicio_vigencia
+0011061,Beatriz Oliveira Cardoso,084.958.899-51,1996-07-11,Feminino,2024-09-09,,,Coordenador de Atendimento,Customer Success,Campinas,0010369,4985.0,CLT,2024-12-13
+0010399,Caio Ferreira Silva,669.918.632-97,1995-06-13,Masculino,2017-01-11,,,Atendente Pleno,Customer Success,Curitiba,0010993,3726.52,CLT,2024-12-15
+0010213,Natália Fernandes Dias,759.984.629-80,1994-08-13,Feminino,2015-12-23,,,Operador de Logística Pleno,Operações,Campinas,0010303,3094.32,CLT,2024-12-11
+0010599,João Castro Ribeiro,425.549.895-40,1986-07-10,Masculino,2019-10-11,,,Consultor Comercial Pleno,Comercial,São Paulo,0010539,6020.39,CLT,2024-09-01
+0010402,Júlia Vieira Santos,976.408.561-08,1971-11-09,Feminino,2015-04-01,,,Atendente Júnior,Customer Success,Campinas,0010522,2561.38,CLT,2024-09-01
+0011037,Daniel Carvalho Oliveira,195.739.895-73,1988-09-08,Masculino,2024-08-11,,,Operador de Logística Júnior,Operações,Recife,0010986,2565.26,CLT,2024-12-02
+0010364,Vitória Santos Vieira,150.730.938-44,1993-06-03,Feminino,2017-09-23,,,Operador de Logística Júnior,Operações,São Paulo,0010148,2938.25,CLT,2024-09-01
+0010173,Igor Gomes Silva,729.802.136-24,1974-07-17,Masculino,2018-08-08,,,Operador de Logística Sênior,Operações,Campinas,0010721,5418.44,CLT,2024-09-01
+0010480,Fernanda Almeida Silva,838.210.574-24,1973-01-23,Feminino,2019-04-14,,,Atendente Pleno,Customer Success,Curitiba,0011061,3443.1,CLT,2024-12-13
+0010743,Vinícius Teixeira Vieira,555.344.875-18,1998-06-06,Masculino,2023-04-09,,,Coordenador de Atendimento,Customer Success,Curitiba,0010369,5978.37,CLT,2024-09-01
+0010495,Camila Vieira Ribeiro,313.711.007-64,1983-03-11,Feminino,2018-12-26,,,Atendente Pleno,Customer Success,Recife,0010993,2879.02,CLT,2024-12-15
+0010970,Igor Pereira Silva,602.427.220-08,1997-01-24,Masculino,2024-04-19,,,Atendente Sênior,Customer Success,Recife,0010373,5176.86,CLT,2024-09-01
+0010265,Larissa Vieira Almeida,912.954.133-61,1990-07-06,Feminino,2022-10-05,,,Operador de Logística Júnior,Operações,São Paulo,0010139,3023.19,CLT,2024-09-01
+0010554,Igor Souza Almeida,077.807.200-20,1984-11-16,Masculino,2016-11-14,,,Consultor Comercial Júnior,Comercial,Recife,0010539,4628.19,CLT,2024-09-01
+0010741,Gustavo Rocha Moreira,003.321.696-77,2005-06-21,Masculino,2023-04-10,,,Coordenador de Operações,Operações,São Paulo,0010916,6778.73,CLT,2024-09-01
+0010419,Igor Pereira Gomes,796.199.692-35,1998-11-09,Masculino,2022-11-22,,,Atendente Pleno,Customer Success,Curitiba,0010371,3699.12,CLT,2024-09-01
+0010853,Sofia Santos Martins,733.066.838-92,2001-12-16,Feminino,2023-10-17,,,Operador de Logística Júnior,Operações,São Paulo,0011053,2846.76,CLT,2024-12-26
+0010114,Tatiana Rocha Almeida,608.971.543-39,1977-07-07,Feminino,2015-03-25,,,Engenheiro de Software Sênior,Tecnologia,Campinas,0010006,15544.45,CLT,2024-09-01
+0010328,Eduardo Fernandes Santos,890.928.033-67,1976-11-12,Masculino,2016-01-09,,,Operador de Logística Pleno,Operações,Curitiba,0010148,3469.3,CLT,2025-01-26
+0010766,Nicolas Moreira Araújo,326.227.483-61,1985-09-08,Masculino,2023-06-17,,,Operador de Logística Pleno,Operações,São Paulo,0010144,4242.06,CLT,2024-09-01
+0010851,Felipe Martins Silva,058.086.607-69,1989-08-27,Masculino,2023-10-16,,,Operador de Logística Sênior,Operações,Campinas,0010286,5604.19,CLT,2024-09-01
+0010626,Lucas Pereira Silva,971.009.557-93,1992-07-28,Masculino,2016-03-03,,,Analista Financeiro Júnior,Financeiro,São Paulo,0010612,6308.9,CLT,2024-09-01
+0011132,Daniel Souza Melo,136.856.471-21,2005-11-20,Masculino,2025-01-09,,,Atendente Pleno,Customer Success,Curitiba,0010374,3424.51,CLT,2025-01-09
+0011041,Mariana Oliveira Silva,342.178.338-14,1992-02-02,Feminino,2024-08-24,,,Atendente Pleno,Customer Success,Campinas,0010743,3184.71,CLT,2024-09-01
+0010665,João Dias Carvalho,197.312.487-49,1990-11-07,Masculino,2021-04-09,,,Analista de RH Sênior,Pessoas,São Paulo,0010653,6667.28,CLT,2024-09-01
+0011058,Camila Melo Ferreira,732.734.799-22,2006-11-11,Feminino,2024-09-15,,,Operador de Logística Júnior,Operações,São Paulo,0010148,2536.81,CLT,2024-09-15
+0010650,Daniela Barbosa Fernandes,648.280.860-30,1990-03-16,Feminino,2019-02-26,,,Gerente de Pessoas,Pessoas,Campinas,0010649,18278.39,CLT,2024-09-01
+0010932,João Ribeiro Silva,097.064.336-51,2000-08-24,Masculino,2024-02-20,,,Atendente Sênior,Customer Success,Campinas,0010403,4390.96,CLT,2024-09-01
+0010292,Natália Santos Rocha,165.319.279-84,1983-11-23,Feminino,2020-04-06,,,Operador de Logística Pleno,Operações,São Paulo,0010148,3821.57,CLT,2024-09-01
+0010663,Thiago Rocha Carvalho,186.013.597-87,1995-08-27,Masculino,2020-02-21,,,Analista de RH Júnior,Pessoas,São Paulo,0010653,5307.24,CLT,2024-09-01
+0010596,Gustavo Araújo Araújo,411.108.428-13,1982-06-10,Masculino,2020-11-22,,,Consultor Comercial Júnior,Comercial,Recife,0010571,4497.22,CLT,2024-09-01
+0010751,Vitória Vieira Castro,022.339.022-46,1993-02-20,Feminino,2023-05-23,,,Engenheiro de Software Sênior,Tecnologia,Curitiba,0010009,15179.97,CLT,2024-09-01
+0010327,Patrícia Teixeira Dias,043.674.477-58,1984-12-15,Feminino,2016-11-17,,,Operador de Logística Júnior,Operações,Recife,0010183,2940.68,CLT,2024-09-01
+0010645,Thiago Lima Vieira,034.837.725-88,1973-03-13,Masculino,2017-09-11,,,Analista Financeiro Júnior,Financeiro,Curitiba,0010613,5461.46,CLT,2024-09-01
+0010445,Lucas Gomes Dias,829.911.001-76,1995-10-22,Masculino,2021-09-18,,,Atendente Júnior,Customer Success,Curitiba,0010373,2591.3,CLT,2024-09-01
+0010613,Caio Carvalho Teixeira,021.788.253-62,1971-12-10,Masculino,2018-11-15,,,Coordenador de Financeiro,Financeiro,Campinas,0010611,14189.13,CLT,2024-09-01
+0011052,Helena Melo Carvalho,647.062.470-71,1979-02-16,Feminino,2024-09-14,,,Operador de Logística Pleno,Operações,Campinas,0010148,3535.12,Temporário,2024-09-14
+0010139,Daniela Gomes Almeida,565.084.263-97,1990-09-03,Feminino,2019-12-02,,,Coordenador de Operações,Operações,Recife,0010127,7582.5,CLT,2024-09-01
+0010406,Patrícia Oliveira Martins,164.210.946-00,1987-03-24,Feminino,2021-06-09,,,Atendente Pleno,Customer Success,Curitiba,0010454,3577.75,CLT,2024-10-14
+0010924,Eduardo Vieira Dias,048.264.367-69,2006-11-07,Masculino,2024-02-02,,,Operador de Logística Júnior,Operações,Recife,0011053,2917.72,CLT,2024-12-26
+0010911,Gabriela Ferreira Moreira,157.843.860-85,1988-04-18,Feminino,2024-01-12,,,Consultor Comercial Sênior,Comercial,Recife,0010538,7341.95,CLT,2024-09-01
+0010192,Gustavo Lima Ribeiro,085.359.883-51,1975-08-21,Masculino,2017-04-20,2025-01-13,Pedido de demissão,Operador de Logística Pleno,Operações,Curitiba,0010791,3881.09,CLT,2024-09-01
+0010901,Beatriz Ribeiro Silva,443.259.717-85,1996-07-16,Feminino,2024-01-07,,,Engenheiro de Software Pleno,Tecnologia,Campinas,0010048,9542.83,CLT,2024-09-01
+0010229,Natália Costa Almeida,030.464.510-91,1991-02-06,Feminino,2019-11-03,,,Operador de Logística Júnior,Operações,Curitiba,0010139,3024.89,CLT,2024-09-01
+0010690,Lucas Almeida Cardoso,037.996.090-75,1998-07-25,Masculino,2023-02-06,,,Engenheiro de Software Júnior,Tecnologia,São Paulo,0010048,7696.27,CLT,2024-09-01
+0010858,Eduardo Moreira Almeida,094.890.492-55,2005-05-03,Masculino,2023-10-24,,,Atendente Júnior,Customer Success,Curitiba,0010522,2234.32,CLT,2024-09-01
+0010285,Isabela Silva Ribeiro,228.821.595-01,1967-11-08,Feminino,2020-11-09,,,Operador de Logística Pleno,Operações,Curitiba,0010303,4618.47,CLT,2024-09-01
+0010657,João Carvalho Rocha,741.981.247-01,1992-03-17,Masculino,2020-01-16,,,Analista de RH Sênior,Pessoas,São Paulo,0010653,7137.33,CLT,2024-09-01
+0011048,Ana Pereira Melo,596.851.754-97,1991-08-14,Feminino,2024-08-13,2025-01-05,Justa causa,Consultor Comercial Sênior,Comercial,Recife,0010535,7307.49,CLT,2024-09-01
+0010959,Bruno Ferreira Souza,268.437.634-48,2000-11-19,Masculino,2024-03-20,,,Analista de RH Pleno,Pessoas,São Paulo,0010653,7403.11,CLT,2024-09-01
+0011026,André Rocha Teixeira,675.567.180-00,1996-01-02,Masculino,2024-07-23,,,Consultor Comercial Pleno,Comercial,Recife,0010538,6098.49,CLT,2024-09-01
+0010037,Marcelo Santos Almeida,938.951.252-29,1994-02-11,Masculino,2016-10-05,,,Engenheiro de Software Pleno,Tecnologia,São Paulo,0010010,11698.67,CLT,2024-09-01
+0010072,Pedro Pereira Ribeiro,211.991.708-60,1993-04-26,Masculino,2020-11-04,,,Engenheiro de Software Sênior,Tecnologia,Curitiba,0010009,13565.78,CLT,2024-09-01
+0010373,Rafael Pereira Ribeiro,937.436.189-23,2000-09-09,Masculino,2018-07-18,,,Coordenador de Atendimento,Customer Success,Campinas,0010914,6370.03,CLT,2024-09-01
+0011014,Gabriela Lima Cardoso,029.112.645-68,1978-02-06,Feminino,2024-07-21,,,Operador de Logística Pleno,Operações,Curitiba,0010139,3798.11,CLT,2024-09-01
+0010249,Pedro Pereira Pereira,323.619.193-70,1976-04-18,Masculino,2018-05-03,,,Operador de Logística Júnior,Operações,São Paulo,0010303,2875.31,CLT,2024-09-01
+0010134,Thiago Fernandes Cardoso,476.485.042-78,1987-09-18,Masculino,2020-06-01,,,Coordenador de Operações,Operações,Recife,0010126,6736.87,CLT,2024-09-01
+0010558,Nicolas Martins Silva,116.555.693-68,1985-04-14,Masculino,2017-05-06,,,Consultor Comercial Júnior,Comercial,Campinas,0010538,4650.5,CLT,2024-09-01
+0011097,Beatriz Pereira Ribeiro,551.641.463-63,1990-08-09,Feminino,2024-11-05,,,Operador de Logística Júnior,Operações,Recife,0010145,2561.3,CLT,2024-11-05
+0010313,Camila Melo Silva,264.418.833-41,1981-04-25,Feminino,2020-05-09,,,Coordenador de Operações,Operações,São Paulo,0010125,6457.58,CLT,2024-09-01
+0010984,Vitória Cardoso Rocha,061.102.970-70,1976-10-01,Feminino,2024-05-22,,,Operador de Logística Júnior,Operações,Recife,0010846,2745.37,CLT,2025-01-08
+0010242,Bruno Souza Gomes,301.039.903-05,1994-09-14,Masculino,2016-04-23,,,Operador de Logística Sênior,Operações,São Paulo,0010134,6245.91,CLT,2024-09-01
+0010591,Mariana Teixeira Ferreira,181.621.719-08,1983-06-24,Feminino,2020-12-20,,,Consultor Comercial Júnior,Comercial,Campinas,0010571,4670.65,CLT,2024-09-01
+0011109,Larissa Souza Martins,527.888.908-00,1981-03-10,Feminino,2024-12-27,,,Operador de Logística Sênior,Operações,São Paulo,0010986,4589.1,CLT,2024-12-27
+0011022,Tatiana Almeida Lima,021.924.637-82,1999-02-26,Feminino,2024-07-06,,,Atendente Pleno,Customer Success,Curitiba,0010454,3359.04,CLT,2024-10-14
+0010838,Gustavo Cardoso Martins,279.814.681-08,1982-05-05,Masculino,2023-09-06,,,Atendente Júnior,Customer Success,Campinas,0010743,2581.09,CLT,2024-09-01
+0010406,Patrícia Oliveira Martins,164.210.946-00,1987-03-24,Feminino,2021-06-09,,,Atendente Pleno,Customer Success,Curitiba,0010454,3470.42,CLT,2024-09-14
+0010551,Vitória Martins Gomes,519.663.304-99,1978-02-26,Feminino,2017-09-09,2025-01-09,Dispensa sem justa causa,Consultor Comercial Pleno,Comercial,Curitiba,0010571,4722.26,CLT,2024-09-01
+0010025,Gabriela Ferreira Carvalho,728.378.468-30,1979-03-06,Feminino,2016-11-04,,,Engenheiro de Software Pleno,Tecnologia,Campinas,0010007,8592.39,CLT,2024-09-01
+0010065,Thiago Pereira Almeida,115.688.518-39,1997-07-09,Masculino,2021-06-06,,,Engenheiro de Software Pleno,Tecnologia,Curitiba,0010011,11324.52,CLT,2024-09-01
+0010835,Bruno Lima Ribeiro,314.120.061-04,1990-03-06,Masculino,2023-09-27,,,Atendente Pleno,Customer Success,Recife,0010371,3087.74,CLT,2024-09-01
+0010992,Fernanda Dias Santos,639.159.628-05,1993-09-15,Feminino,2024-05-15,,,Atendente Pleno,Customer Success,Campinas,0010374,3418.91,CLT,2024-09-01
+0010074,Gustavo Moreira Carvalho,422.439.496-01,1976-05-19,Masculino,2021-08-22,,,Engenheiro de Software Sênior,Tecnologia,Curitiba,0010011,13953.01,CLT,2024-09-01
+0010661,Bruno Silva Carvalho,134.492.593-69,1976-07-19,Masculino,2016-11-24,,,Analista de RH Júnior,Pessoas,Campinas,0010653,5646.64,CLT,2024-09-01
+0010024,Mariana Castro Santos,503.775.821-15,1991-01-26,Feminino,2019-09-07,,,Engenheiro de Software Sênior,Tecnologia,São Paulo,0010006,14407.48,CLT,2024-09-01
+0011137,Thiago Oliveira Cardoso,449.547.657-22,1989-09-20,Masculino,2025-01-24,,,Consultor Comercial Júnior,Comercial,São Paulo,0010535,4222.76,CLT,2025-01-24
+0011114,Daniel Carvalho Fernandes,659.827.620-91,1995-09-15,Masculino,2024-12-25,,,Atendente Pleno,Customer Success,Recife,0010743,3135.64,CLT,2024-12-25
+0010098,Vinícius Martins Pereira,149.299.837-03,1978-09-18,Masculino,2020-12-14,,,Engenheiro de Software Pleno,Tecnologia,Recife,0010008,12192.67,CLT,2024-09-01
+0010066,André Carvalho Castro,151.188.696-09,1980-02-21,Masculino,2018-10-11,,,Engenheiro de Software Pleno,Tecnologia,Campinas,0010048,12027.77,CLT,2024-09-01
+0011012,Beatriz Almeida Gomes,495.591.161-77,2006-10-10,Feminino,2024-07-26,,,Engenheiro de Software Júnior,Tecnologia,Campinas,0010010,8235.94,CLT,2024-09-01
+0010962,Larissa Souza Costa,029.438.458-84,1983-12-27,Feminino,2024-04-27,,,Engenheiro de Software Júnior,Tecnologia,Curitiba,0010005,6388.56,CLT,2024-09-01
+0010768,Mariana Barbosa Lima,909.851.538-06,1991-09-05,Feminino,2023-06-09,,,Operador de Logística Júnior,Operações,Campinas,0011053,2872.88,CLT,2024-12-26
+0010124,Eduarda Almeida Oliveira,394.377.612-30,1993-07-08,Feminino,2018-03-09,,,Diretor de Operações,Operações,São Paulo,0010001,14903.28,CLT,2018-03-09
+0010123,Eduardo Gomes Fernandes,013.661.282-22,1997-02-14,Masculino,2018-12-18,,,Engenheiro de Software Júnior,Tecnologia,Recife,0010006,8632.29,CLT,2024-09-01
+0010228,Ana Lima Silva,795.844.080-46,1979-11-28,Feminino,2016-04-14,,,Operador de Logística Pleno,Operações,Campinas,0010791,2920.29,CLT,2024-09-01
+0010253,Sofia Ferreira Castro,787.013.012-50,1992-09-01,Feminino,2017-10-02,,,Operador de Logística Sênior,Operações,Campinas,0010145,3468.23,CLT,2024-12-08
+0010245,Marcelo Moreira Pereira,712.766.620-25,1975-11-25,Masculino,2017-07-23,,,Operador de Logística Pleno,Operações,Curitiba,0010721,3046.09,Temporário,2024-09-01
+0010482,Lucas Martins Dias,081.081.961-91,1982-09-11,Masculino,2017-11-03,,,Atendente Pleno,Customer Success,Recife,0010374,3425.52,CLT,2024-09-01
+0010899,Patrícia Moreira Araújo,409.392.235-70,1983-01-26,Feminino,2023-12-15,,,Consultor Comercial Sênior,Comercial,São Paulo,0010539,8109.02,CLT,2024-09-01
+0010162,Helena Martins Martins,608.908.117-50,1977-08-06,Feminino,2016-03-01,,,Operador de Logística Júnior,Operações,Recife,0010144,2861.78,CLT,2024-11-03
+0010866,Caio Almeida Araújo,247.393.573-48,1996-02-15,Masculino,2023-11-03,,,Operador de Logística Sênior,Operações,São Paulo,0010144,5624.57,CLT,2024-09-01
+0010089,Caio Santos Dias,746.872.585-30,1978-04-18,Masculino,2020-07-25,,,Engenheiro de Software Sênior,Tecnologia,São Paulo,0010008,13972.41,CLT,2024-09-01
+0010649,Pedro Cardoso Almeida,143.620.331-73,1992-11-13,Masculino,2020-02-13,,,Diretor de Pessoas,Pessoas,Curitiba,0010001,27507.68,CLT,2020-02-13
+0010315,Helena Moreira Carvalho,590.562.111-02,1986-10-13,Feminino,2019-01-22,,,Operador de Logística Júnior,Operações,São Paulo,0010135,2793.89,CLT,2024-09-01
+0010732,Vinícius Fernandes Gomes,389.389.247-85,1991-12-05,Masculino,2023-03-17,,,Consultor Comercial Pleno,Comercial,Recife,0010535,5173.38,CLT,2024-12-20
+0010659,Nicolas Lima Gomes,316.924.765-48,1992-10-03,Masculino,2022-07-01,,,Analista de RH Pleno,Pessoas,São Paulo,0010653,6986.52,CLT,2024-09-01
+0010085,Felipe Fernandes Carvalho,037.289.451-88,1982-02-12,Masculino,2016-09-14,,,Engenheiro de Software Pleno,Tecnologia,Curitiba,0010058,9862.14,CLT,2024-09-01
+0010548,Sofia Almeida Dias,656.176.846-98,1980-11-19,Feminino,2019-08-02,,,Consultor Comercial Sênior,Comercial,São Paulo,0010538,7835.33,CLT,2024-09-01
+0010547,Helena Melo Ferreira,332.609.188-50,1984-06-15,Feminino,2020-05-24,,,Consultor Comercial Pleno,Comercial,Curitiba,0010567,6419.32,CLT,2024-09-01
+0010076,Gabriela Souza Ferreira,634.336.712-81,1982-02-05,Feminino,2016-07-08,,,Engenheiro de Software Júnior,Tecnologia,São Paulo,0010058,7286.36,CLT,2024-09-01
+0010601,Isabela Cardoso Silva,426.068.497-36,1993-11-12,Feminino,2021-05-05,,,Consultor Comercial Sênior,Comercial,Curitiba,0010571,8025.53,CLT,2024-09-01
+0010697,André Oliveira Dias,317.901.296-05,1999-06-16,Masculino,2023-02-20,,,Operador de Logística Júnior,Operações,Campinas,0010134,2868.01,CLT,2024-09-01
+0010371,Otávio Silva Carvalho,043.118.133-09,1980-09-17,Masculino,2020-12-07,,,Coordenador de Atendimento,Customer Success,Recife,0010368,6266.33,CLT,2024-09-01
+0010113,Tatiana Silva Melo,543.015.178-55,1982-08-20,Feminino,2019-09-20,,,Engenheiro de Software Júnior,Tecnologia,Campinas,0010005,8226.98,CLT,2024-09-01
+0010312,Marcelo Cardoso Martins,018.114.333-08,1986-03-17,Masculino,2016-07-26,,,Operador de Logística Pleno,Operações,Curitiba,0010986,3840.18,CLT,2024-12-02
+0010027,Igor Carvalho Melo,685.181.074-31,1979-08-12,Masculino,2021-04-08,2025-01-08,Pedido de demissão,Engenheiro de Software Júnior,Tecnologia,Recife,0010009,8761.29,CLT,2024-09-01
+0010623,Bruno Vieira Souza,071.314.798-96,1976-01-12,Masculino,2015-05-09,,,Analista Financeiro Sênior,Financeiro,Recife,0010613,10503.36,CLT,2024-09-01
+0010706,André Araújo Carvalho,579.560.527-18,1999-03-22,Masculino,2023-02-15,,,Atendente Pleno,Customer Success,Campinas,0010389,3807.86,CLT,2024-09-01
+0010362,Eduarda Oliveira Oliveira,822.602.602-41,1970-06-16,Feminino,2019-10-06,,,Operador de Logística Júnior,Operações,São Paulo,0011053,2964.5,CLT,2024-12-26
+0010660,Rafael Gomes Dias,698.613.376-60,1988-10-11,Masculino,2022-11-02,,,Analista de RH Júnior,Pessoas,São Paulo,0010653,4649.53,CLT,2024-09-01
+0010919,Tatiana Fernandes Souza,098.491.738-15,1986-02-02,Feminino,2024-02-13,,,Operador de Logística Júnior,Operações,São Paulo,0010139,2778.86,CLT,2024-09-01
+0010150,João Oliveira Araújo,400.965.723-53,1995-06-08,Masculino,2019-07-20,,,Operador de Logística Pleno,Operações,Campinas,0010986,4045.47,CLT,2024-12-02
+0010782,Fernanda Ferreira Gomes,108.632.061-15,1980-01-24,Feminino,2023-06-24,,,Consultor Comercial Júnior,Comercial,São Paulo,0010538,4320.93,CLT,2024-09-01
+0010830,Henrique Ferreira Cardoso,193.075.673-95,1998-12-08,Masculino,2023-08-12,2025-01-04,Pedido de demissão,Consultor Comercial Pleno,Comercial,Recife,0010539,7213.93,CLT,2024-09-01
+0010770,Sofia Lima Dias,772.295.088-43,1967-08-12,Feminino,2023-06-04,,,Operador de Logística Júnior,Operações,São Paulo,0010741,3126.78,CLT,2024-09-01
+0010585,Gabriela Araújo Teixeira,796.322.734-00,1995-11-01,Feminino,2021-03-24,,,Consultor Comercial Pleno,Comercial,Recife,0010535,4515.02,CLT,2024-09-01
+0010274,André Araújo Silva,028.955.316-41,1979-07-08,Masculino,2017-05-14,,,Operador de Logística Sênior,Operações,Recife,0010148,5242.56,CLT,2024-09-01
+0010950,Helena Carvalho Castro,230.564.585-60,1997-08-18,Feminino,2024-03-20,,,Atendente Júnior,Customer Success,Campinas,0010743,2179.2,CLT,2024-09-01
+0010668,Larissa Souza Gomes,556.023.659-40,1985-09-25,Feminino,2019-08-15,,,Analista de RH Júnior,Pessoas,Curitiba,0010653,5246.44,CLT,2024-09-01
+0010169,Júlia Carvalho Silva,405.243.314-99,1992-10-24,Feminino,2017-04-10,,,Operador de Logística Pleno,Operações,Recife,0010313,4250.14,CLT,2024-09-01
+0010794,Igor Castro Teixeira,462.811.305-02,1997-12-26,Masculino,2023-07-15,,,Operador de Logística Júnior,Operações,Curitiba,0010286,30355.3,CLT,2024-09-01
+0011120,Henrique Moreira Barbosa,483.438.127-78,1992-07-01,Masculino,2024-12-17,,,Analista de RH Júnior,Pessoas,Curitiba,0010653,4644.24,CLT,2024-12-17
+0011108,Beatriz Almeida Martins,386.006.542-46,1995-02-27,Feminino,2024-12-22,2025-01-22,Pedido de demissão,Operador de Logística Sênior,Operações,Campinas,0010791,4786.1,CLT,2024-12-22
+0010110,João Ferreira Silva,602.389.375-93,1985-01-20,Masculino,2017-06-25,,,Engenheiro de Software Pleno,Tecnologia,Campinas,0010011,9709.89,CLT,2024-10-23
+0010466,Mariana Araújo Castro,298.689.068-73,1990-07-23,Feminino,2022-12-12,,,Atendente Júnior,Customer Success,Recife,0010454,2778.05,CLT,2024-10-14
+0010936,Igor Almeida Barbosa,792.118.674-28,1978-03-19,Masculino,2024-02-03,,,Consultor Comercial Pleno,Comercial,São Paulo,0010535,5640.79,CLT,2024-09-01
+0010368,André Almeida Santos,297.454.037-68,2004-11-24,Masculino,2022-01-26,,,Gerente de Atendimento,Customer Success,São Paulo,0010711,8873.74,CLT,2024-09-01
+0010603,Caio Silva Ferreira,219.106.735-28,1995-01-22,Masculino,2015-04-04,,,Consultor Comercial Júnior,Comercial,Recife,0010538,4821.8,CLT,2024-09-01
+0010052,Ana Oliveira Silva,775.146.148-93,1987-06-19,Feminino,2018-02-13,,,Engenheiro de Software Pleno,Tecnologia,Recife,0010007,10240.55,CLT,2024-09-01
+0010615,Renata Oliveira Costa,416.436.409-25,1983-04-02,Feminino,2022-10-02,,,Analista Financeiro Sênior,Financeiro,Campinas,0010613,11196.52,CLT,2024-09-01
+0011080,Júlia Martins Teixeira,051.974.435-70,1996-07-13,Feminino,2024-10-23,,,Atendente Pleno,Customer Success,São Paulo,0010403,2983.83,CLT,2024-10-23
+0010672,Igor Ribeiro Almeida,292.810.710-02,1988-12-21,Masculino,2023-01-19,,,Engenheiro de Software Pleno,Tecnologia,Campinas,0010010,9064.05,CLT,2024-11-08
+0010363,Eduardo Teixeira Oliveira,630.514.500-81,1998-01-06,Masculino,2020-01-05,,,Operador de Logística Júnior,Operações,Campinas,0010183,2800.88,CLT,2024-09-01
+0011023,Gabriela Rocha Martins,720.926.253-90,1978-06-12,Feminino,2024-07-22,,,Atendente Pleno,Customer Success,Curitiba,0010403,3662.54,CLT,2024-09-01
+0010073,Helena Teixeira Pereira,948.547.866-63,1976-12-26,Feminino,2015-05-17,,,Engenheiro de Software Pleno,Tecnologia,Recife,0010010,10243.46,CLT,2024-09-01
+0010526,Daniel Silva Ferreira,920.145.260-87,1985-09-21,Masculino,2021-07-14,,,Atendente Pleno,Customer Success,Recife,0010454,3566.53,CLT,2024-10-14
+0010652,Isabela Ribeiro Teixeira,931.212.492-74,1980-12-24,Feminino,2017-09-15,,,Analista de RH Sênior,Pessoas,Recife,0010653,10757.51,CLT,2024-09-01
+0010616,André Araújo Santos,001.866.638-89,1975-07-10,Masculino,2015-12-13,,,Analista Financeiro Pleno,Financeiro,Curitiba,0010612,8363.61,CLT,2024-09-01
+0010152,Igor Martins Silva,146.371.962-05,1993-10-20,Masculino,2019-11-25,,,Operador de Logística Júnior,Operações,Campinas,0010134,3243.2,Temporário,2024-09-01
+0010762,Eduardo Vieira Castro,630.345.389-95,1996-07-12,Masculino,2023-05-07,,,Consultor Comercial Júnior,Comercial,Curitiba,0010538,4625.0,CLT,2024-09-01
+0010151,Otávio Gomes Ferreira,504.422.709-92,1992-12-09,Masculino,2019-07-10,,,Operador de Logística Júnior,Operações,Recife,0010313,2780.36,CLT,2024-09-01
+0010709,Eduarda Pereira Melo,468.337.388-23,1983-11-08,Feminino,2023-02-22,,,Analista Financeiro Sênior,Financeiro,São Paulo,0010613,11750.93,CLT,2024-09-01
+0010723,Marcelo Melo Cardoso,713.403.917-08,1986-10-13,Masculino,2023-03-19,,,Atendente Júnior,Customer Success,Curitiba,0010454,2642.8,CLT,2024-10-14
+0010244,João Rocha Dias,959.496.649-14,1981-09-24,Masculino,2017-03-15,,,Operador de Logística Pleno,Operações,Curitiba,0010741,4051.74,CLT,2024-09-01
+0010910,Gabriela Santos Costa,948.887.174-19,1999-12-09,Feminino,2024-01-23,,,Consultor Comercial Pleno,Comercial,Campinas,0010535,5286.3,CLT,2024-09-01
+0010631,Gabriela Ribeiro Vieira,537.739.656-13,1991-06-08,Feminino,2021-11-26,,,Analista Financeiro Júnior,Financeiro,São Paulo,0010613,5358.53,CLT,2024-09-01
+0011092,Lucas Cardoso Araújo,352.726.522-82,1976-09-08,Masculino,2024-11-03,,,Engenheiro de Software Júnior,Tecnologia,Recife,0010007,7850.74,CLT,2024-11-03
+0010662,Isabela Barbosa Pereira,969.929.573-25,1967-05-08,Feminino,2019-05-02,,,Analista de RH Pleno,Pessoas,Recife,0010653,5576.81,CLT,2024-09-01
+0010520,Mariana Araújo Santos,463.331.156-57,1971-12-14,Feminino,2018-12-14,,,Atendente Júnior,Customer Success,Recife,0010705,2563.17,CLT,2024-09-01
+0010166,Helena Carvalho Carvalho,987.328.472-97,1976-06-02,Feminino,2017-09-20,,,Operador de Logística Pleno,Operações,São Paulo,0010148,3911.88,CLT,2024-09-01
+0010825,Helena Rocha Melo,513.116.930-50,1993-12-09,Feminino,2023-08-22,,,Atendente Sênior,Customer Success,Curitiba,0010705,4800.97,CLT,2024-09-01
+0010100,Marcelo Araújo Carvalho,654.083.094-79,1990-02-21,Masculino,2017-03-23,,,Engenheiro de Software Pleno,Tecnologia,São Paulo,0010010,9217.24,CLT,2024-09-01
+0010786,Rafael Rocha Souza,008.468.565-49,1988-12-02,Masculino,2023-07-08,,,Operador de Logística Pleno,Operações,São Paulo,0010846,3884.95,CLT,2025-01-08
+0010060,Daniela Pereira Vieira,428.408.443-70,1990-04-15,Feminino,2015-07-20,,,Engenheiro de Software Júnior,Tecnologia,Campinas,0010006,8091.69,CLT,2024-09-01
+0010398,Felipe Araújo Lima,293.788.707-40,1990-01-24,Masculino,2020-11-21,,,Atendente Júnior,Customer Success,Campinas,0010374,2261.89,CLT,2024-09-01
+0010763,Natália Cardoso Araújo,103.153.269-21,1992-03-11,Feminino,2023-05-27,,,Consultor Comercial Júnior,Comercial,Recife,0010567,3838.03,CLT,2024-09-01
+0010790,André Ferreira Oliveira,005.161.666-11,1986-04-11,Masculino,2023-07-18,,,Operador de Logística Pleno,Operações,São Paulo,0010303,3761.35,CLT,2024-09-01
+0010755,Isabela Teixeira Moreira,198.063.982-54,2005-03-20,Feminino,2023-05-22,,,Operador de Logística Pleno,Operações,Curitiba,0010303,4175.99,CLT,2024-09-01
+0010039,Marcelo Oliveira Cardoso,107.770.697-92,1987-06-02,Masculino,2017-06-06,,,Engenheiro de Software Sênior,Tecnologia,São Paulo,0010048,15353.84,CLT,2024-09-01
+0011098,Sofia Moreira Almeida,167.789.713-98,1994-04-12,Feminino,2024-11-21,,,Operador de Logística Júnior,Operações,São Paulo,0010148,2615.77,CLT,2024-11-21
+0010145,Júlia Silva Carvalho,080.806.355-36,1972-03-21,Feminino,2017-08-20,,,Coordenador de Operações,Operações,Campinas,0010125,6763.68,CLT,2024-09-01
+0010035,Gabriela Moreira Castro,045.970.733-70,1991-08-15,Feminino,2022-09-27,,,Engenheiro de Software Júnior,Tecnologia,São Paulo,0010008,7091.3,CLT,2024-09-01
+0010059,Mariana Carvalho Ribeiro,962.713.471-69,1988-09-04,Feminino,2020-09-24,,,Engenheiro de Software Pleno,Tecnologia,Campinas,0010005,11164.79,CLT,2024-09-01
+0011087,Henrique Gomes Gomes,585.085.625-00,1992-03-07,Masculino,2024-10-20,,,Consultor Comercial Sênior,Comercial,Curitiba,0010535,7456.07,CLT,2024-10-20
+0010998,André Pereira Fernandes,412.467.284-51,1993-05-20,Masculino,2024-06-18,,,Operador de Logística Júnior,Operações,Curitiba,0010140,2674.41,CLT,2024-09-01
+0010522,Mariana Pereira Martins,239.320.982-42,1979-12-25,Feminino,2015-04-10,,,Coordenador de Atendimento,Customer Success,Campinas,0010369,3750.4,CLT,2024-09-01
+0010583,Thiago Vieira Teixeira,309.831.692-68,1980-01-26,Masculino,2019-12-11,,,Consultor Comercial Sênior,Comercial,Curitiba,0010538,8957.93,CLT,2024-09-01
+0011107,Vitória Costa Dias,735.047.110-60,1968-11-26,Feminino,2024-11-07,,,Analista Financeiro Júnior,Financeiro,Curitiba,0010613,5512.52,CLT,2024-11-07
+0010094,Gabriela Ferreira Moreira,437.538.668-14,1993-02-01,Feminino,2022-06-20,,,Engenheiro de Software Sênior,Tecnologia,Campinas,0010058,12306.18,CLT,2024-09-01
+0010127,Tatiana Ferreira Moreira,246.771.501-92,1991-06-05,Feminino,2016-06-19,,,Gerente de Operações,Operações,Curitiba,0010124,10579.65,CLT,2024-09-01
+0010785,Henrique Dias Costa,859.034.457-64,1993-05-20,Masculino,2023-07-11,,,Engenheiro de Software Pleno,Tecnologia,Curitiba,0010010,10894.41,CLT,2024-09-01
+0010587,Bruno Castro Lima,060.357.347-90,1990-12-05,Masculino,2018-03-13,,,Consultor Comercial Pleno,Comercial,Recife,0010567,5479.4,CLT,2024-12-22
+0010576,Felipe Rocha Dias,599.945.499-95,1983-03-22,Masculino,2019-07-19,,,Consultor Comercial Pleno,Comercial,Curitiba,0010571,6249.21,CLT,2024-09-01
+0010167,Pedro Barbosa Ribeiro,658.149.290-65,1992-01-19,Masculino,2018-09-09,,,Operador de Logística Sênior,Operações,São Paulo,0010846,5450.98,CLT,2025-01-08
+0010211,Isabela Costa Moreira,387.866.274-22,1982-03-28,Feminino,2018-06-04,,,Operador de Logística Júnior,Operações,Campinas,0010139,3029.24,CLT,2024-09-01
+0010739,Daniel Barbosa Dias,789.346.164-07,1989-10-22,Masculino,2023-04-06,,,Operador de Logística Sênior,Operações,São Paulo,0011053,4767.45,CLT,2024-12-26
+0011116,Larissa Rocha Carvalho,845.268.307-39,1981-07-15,Feminino,2024-12-14,2025-01-08,Pedido de demissão,Consultor Comercial Pleno,Comercial,Recife,0010571,5336.68,CLT,2024-12-14
+0010355,Ana Souza Almeida,004.342.488-00,1991-01-12,Feminino,2015-02-03,,,Operador de Logística Pleno,Operações,Campinas,0010139,3973.93,CLT,2024-09-01
+0010964,Igor Santos Araújo,203.622.540-36,1994-10-15,Masculino,2024-04-01,,,Operador de Logística Júnior,Operações,São Paulo,0010135,2523.78,Temporário,2024-09-01
+0010050,Marcelo Barbosa Dias,873.703.229-12,1993-06-02,Masculino,2021-10-25,,,Engenheiro de Software Sênior,Tecnologia,São Paulo,0010005,13871.28,CLT,2024-09-01
+0011042,Felipe Lima Costa,086.416.225-19,1995-09-24,Masculino,2024-08-09,,,Atendente Pleno,Customer Success,Campinas,0010743,3533.11,CLT,2024-09-01
+0010420,Gustavo Costa Costa,085.456.201-01,1989-01-06,Masculino,2019-01-12,,,Atendente Pleno,Customer Success,Campinas,0011061,3725.04,CLT,2024-12-13
+0011129,Rafael Ferreira Martins,444.857.066-56,1991-04-26,Masculino,2025-01-14,,,Operador de Logística Pleno,Operações,Campinas,0010144,3792.32,CLT,2025-01-14
+0010956,Pedro Rocha Castro,046.152.369-80,1982-11-20,Masculino,2024-03-08,,,Consultor Comercial Pleno,Comercial,Recife,0010539,6128.26,CLT,2024-09-01
+0010870,Felipe Moreira Castro,088.121.525-20,1994-12-21,Masculino,2023-11-14,,,Operador de Logística Júnior,Operações,Curitiba,0010286,2865.73,CLT,2024-09-01
+0010069,Beatriz Dias Costa,254.141.129-40,1980-01-27,Feminino,2015-07-05,,,Engenheiro de Software Sênior,Tecnologia,Recife,0010006,16146.25,CLT,2024-09-01
+0010140,Lucas Martins Cardoso,209.260.616-66,1985-03-15,Masculino,2016-07-13,,,Coordenador de Operações,Operações,Campinas,0010916,7428.61,CLT,2024-09-01
+0010608,Marcelo Gomes Dias,599.708.201-68,1977-07-16,Masculino,2019-02-05,,,Consultor Comercial Pleno,Comercial,Recife,0010538,4853.74,CLT,2024-09-01
+0011099,Pedro Dias Santos,844.490.900-98,1996-04-11,Masculino,2024-11-08,,,Operador de Logística Pleno,Operações,Campinas,0010846,3615.7,CLT,2025-01-08
+0010374,Júlia Melo Gomes,027.982.705-96,1982-07-02,Feminino,2016-08-08,,,Coordenador de Atendimento,Customer Success,Curitiba,0010368,6445.28,CLT,2024-09-01
+0011131,Eduarda Teixeira Castro,408.397.715-92,1996-12-08,Feminino,2025-01-26,,,Operador de Logística Pleno,Operações,Recife,0010721,3384.52,Temporário,2025-01-26
+0010500,Nicolas Almeida Lima,049.011.885-26,2000-03-13,Masculino,2022-10-26,,,Atendente Sênior,Customer Success,Campinas,0010380,4828.06,CLT,2024-09-01
+0010989,Helena Melo Costa,317.184.297-11,1995-02-17,Feminino,2024-05-07,,,Atendente Pleno,Customer Success,Curitiba,0010522,3184.0,CLT,2024-09-01
+0011079,Thiago Oliveira Dias,461.766.533-12,1999-02-17,Masculino,2024-10-05,,,Atendente Pleno,Customer Success,Curitiba,0010380,3073.08,CLT,2024-10-05
+0010905,Caio Moreira Costa,591.312.898-27,2001-07-05,Masculino,2024-01-11,,,Operador de Logística Pleno,Operações,São Paulo,0010791,3628.5,CLT,2024-09-01
+0011122,Helena Cardoso Costa,163.143.494-27,1983-10-04,Feminino,2025-01-16,,,Engenheiro de Software Júnior,Tecnologia,Curitiba,0010009,6025.85,CLT,2025-01-16
+0010806,Sofia Oliveira Lima,521.140.772-50,2004-03-11,Feminino,2023-07-13,,,Analista de RH Sênior,Pessoas,São Paulo,0010653,10165.29,CLT,2024-09-01
+0011001,Vitória Almeida Araújo,803.133.585-08,1997-06-01,Feminino,2024-06-04,,,Operador de Logística Sênior,Operações,Curitiba,0010313,5145.58,CLT,2024-09-01
+0010462,Gustavo Rocha Ferreira,833.836.613-77,1971-03-01,Masculino,2022-01-07,,,Atendente Júnior,Customer Success,Campinas,0010522,2401.8,CLT,2024-09-01
+0010972,Beatriz Lima Castro,240.991.205-20,2002-09-16,Feminino,2024-04-13,,,Atendente Pleno,Customer Success,Recife,0010373,2972.25,CLT,2024-09-01
+0010907,Camila Martins Almeida,087.439.418-00,2001-11-25,Feminino,2024-01-17,,,Atendente Pleno,Customer Success,Campinas,0010373,3277.86,CLT,2024-09-01
+0011128,Daniel Fernandes Fernandes,872.630.904-14,1987-05-04,Masculino,2025-01-27,,,Operador de Logística Júnior,Operações,Recife,0010135,2344.78,CLT,2025-01-27
+0010053,Caio Souza Cardoso,069.637.921-00,1980-12-05,Masculino,2016-03-25,,,Engenheiro de Software Pleno,Tecnologia,Curitiba,0010008,12249.78,CLT,2024-09-01
+0010369,Lucas Cardoso Pereira,262.844.529-85,1967-07-11,Masculino,2016-05-02,,,Gerente de Atendimento,Customer Success,Curitiba,0010711,9815.0,CLT,2024-09-01
+0011094,Pedro Ferreira Melo,198.991.131-58,2001-09-18,Masculino,2024-11-10,,,Operador de Logística Júnior,Operações,Recife,0010303,2505.68,CLT,2024-11-10
+0010236,Beatriz Oliveira Gomes,588.918.527-67,1984-03-16,Feminino,2017-08-27,2025-01-24,Dispensa sem justa causa,Operador de Logística Júnior,Operações,São Paulo,0011053,2912.26,CLT,2024-12-26
+0010306,Camila Rocha Ferreira,124.251.297-74,1990-02-28,Feminino,2020-08-27,,,Operador de Logística Pleno,Operações,Campinas,0010144,4330.05,CLT,2024-09-01
+0010839,Gustavo Barbosa Vieira,223.070.022-78,1973-06-25,Masculino,2023-09-18,,,Atendente Júnior,Customer Success,São Paulo,0010705,2373.98,CLT,2024-09-01
+0010592,Eduardo Rocha Rocha,067.602.545-54,1983-01-03,Masculino,2022-06-26,,,Consultor Comercial Sênior,Comercial,Campinas,0010567,9762.32,CLT,2024-09-01
+0011083,Mariana Vieira Silva,661.483.157-77,1995-01-20,Feminino,2024-10-22,,,Atendente Júnior,Customer Success,Campinas,0010705,2233.76,CLT,2024-10-22
+0010698,Pedro Costa Rocha,145.960.567-57,1974-04-09,Masculino,2023-02-03,,,Atendente Júnior,Customer Success,São Paulo,0010705,2293.69,CLT,2024-09-01
+0010277,Henrique Castro Araújo,631.803.095-63,1987-10-17,Masculino,2017-08-07,,,Operador de Logística Júnior,Operações,São Paulo,0010313,2862.75,CLT,2024-09-01
+0010979,Nicolas Ferreira Oliveira,036.226.895-95,1984-07-24,Masculino,2024-04-10,,,Analista Financeiro Sênior,Financeiro,Curitiba,0010612,10755.34,CLT,2024-09-01
+0011050,Daniel Castro Ferreira,854.866.978-05,1999-02-06,Masculino,2024-09-10,,,Engenheiro de Software Júnior,Tecnologia,São Paulo,0010009,7134.18,CLT,2024-09-10
+0010943,Larissa Vieira Araújo,659.968.868-39,1986-08-14,Feminino,2024-03-24,,,Operador de Logística Pleno,Operações,São Paulo,0010143,3849.56,CLT,2024-09-01
+0010446,Mariana Carvalho Gomes,800.684.214-00,1976-10-11,Feminino,2017-08-04,,,Atendente Júnior,Customer Success,Campinas,0010374,2521.18,CLT,2024-09-01
+0011084,Patrícia Silva Vieira,488.753.195-88,1985-02-09,Feminino,2024-10-10,,,Consultor Comercial Sênior,Comercial,Recife,0010535,7121.18,CLT,2024-10-10
+0010276,André Araújo Araújo,624.812.934-79,2004-09-14,Masculino,2022-07-12,,,Operador de Logística Júnior,Operações,São Paulo,0010986,2993.77,CLT,2024-12-02
+0010813,Rafael Souza Ribeiro,681.743.888-85,1994-02-06,Masculino,2023-08-10,,,Operador de Logística Pleno,Operações,Curitiba,0010148,4262.67,CLT,2024-09-01
+0010588,Gabriela Silva Ferreira,063.115.393-49,2003-03-07,Feminino,2021-09-19,,,Consultor Comercial Júnior,Comercial,Campinas,0010538,4382.31,CLT,2024-09-01
+0011063,Daniela Pereira Vieira,457.809.748-02,1995-11-02,Feminino,2024-09-19,,,Atendente Júnior,Customer Success,Campinas,0010380,2367.96,CLT,2024-09-19
+0010586,Felipe Silva Dias,377.954.941-70,1987-12-22,Masculino,2018-07-17,,,Consultor Comercial Pleno,Comercial,Recife,0010571,4990.91,CLT,2024-09-01
+0010639,Bruno Martins Dias,423.270.031-56,1995-05-19,Masculino,2017-10-10,,,Analista Financeiro Júnior,Financeiro,São Paulo,0010613,6243.01,CLT,2024-09-01
+0010460,Gabriela Santos Barbosa,693.785.204-56,1988-12-20,Feminino,2021-11-03,,,Atendente Pleno,Customer Success,São Paulo,0010705,3904.29,CLT,2024-09-01
+0010699,Gabriela Vieira Lima,016.299.800-72,2004-12-24,Feminino,2023-02-21,,,Atendente Sênior,Customer Success,São Paulo,0010403,4938.8,CLT,2024-09-01
+0010105,Vitória Gomes Dias,435.535.195-50,1991-05-09,Feminino,2018-10-17,,,Engenheiro de Software Sênior,Tecnologia,São Paulo,0010006,14419.24,CLT,2024-09-01
+0010498,Rafael Ferreira Almeida,238.780.290-04,1998-12-12,Masculino,2019-07-14,,,Atendente Pleno,Customer Success,Campinas,0010522,3342.49,CLT,2024-09-01
+0010666,Larissa Vieira Lima,276.153.022-50,1982-09-13,Feminino,2017-01-02,,,Analista de RH Júnior,Pessoas,Campinas,0010653,4568.59,CLT,2024-09-01
+0010147,Mariana Melo Almeida,754.427.374-10,1989-11-08,Feminino,2018-09-14,,,Operador de Logística Júnior,Operações,Curitiba,0010183,2910.15,CLT,2024-09-01
+0010747,Igor Souza Ferreira,230.642.234-61,1972-12-14,Masculino,2023-04-13,,,Atendente Júnior,Customer Success,Curitiba,0010454,2754.27,CLT,2024-10-14
+0010849,Eduarda Costa Moreira,674.362.984-70,1985-02-26,Feminino,2023-10-14,,,Operador de Logística Júnior,Operações,Curitiba,0010135,227.12,CLT,2024-09-01
+0010765,Vitória Moreira Cardoso,692.318.872-54,2005-07-21,Feminino,2023-06-26,,,Operador de Logística Sênior,Operações,São Paulo,0010313,5471.52,CLT,2024-09-01
+0010456,André Moreira Pereira,755.059.700-60,1985-09-03,Masculino,2021-08-01,,,Atendente Júnior,Customer Success,Recife,0011061,2549.07,CLT,2024-12-13
+0011024,Sofia Rocha Santos,620.574.430-94,1985-11-27,Feminino,2024-07-20,,,Consultor Comercial Júnior,Comercial,Campinas,0010567,3930.19,CLT,2024-09-01
+0010561,Marcelo Ribeiro Dias,645.089.958-10,1997-08-10,Masculino,2017-02-20,,,Consultor Comercial Sênior,Comercial,Curitiba,0010571,7564.82,CLT,2024-09-01
+0010160,Beatriz Oliveira Fernandes,991.613.497-98,1995-12-25,Feminino,2020-05-22,,,Operador de Logística Júnior,Operações,Recife,0010286,2720.45,CLT,2024-09-01
+0011082,Mariana Teixeira Ferreira,039.636.493-48,1988-03-14,Feminino,2024-10-19,,,Atendente Pleno,Customer Success,Curitiba,0010993,3110.22,CLT,2024-12-15
+0010776,André Cardoso Araújo,867.679.799-45,1990-02-24,Masculino,2023-06-26,,,Atendente Sênior,Customer Success,Curitiba,0010380,4998.05,CLT,2024-09-01
+0010209,Helena Vieira Ribeiro,737.281.287-91,1986-01-25,Feminino,2020-06-25,,,Operador de Logística Júnior,Operações,São Paulo,0010721,2879.72,CLT,2024-09-01
+0010538,Tatiana Oliveira Moreira,588.542.204-42,1981-03-09,Feminino,2021-01-26,,,Coordenador de Comercial,Comercial,Curitiba,0010534,9487.64,CLT,2024-09-01
+0010941,Eduardo Almeida Costa,849.957.517-00,1990-07-18,Masculino,2024-03-01,,,Operador de Logística Pleno,Operações,Campinas,0010140,3622.32,CLT,2024-09-01
+0010987,Eduardo Carvalho Silva,243.194.761-07,1986-05-12,Masculino,2024-05-24,,,Operador de Logística Pleno,Operações,Curitiba,0010721,3653.09,CLT,2024-09-01
+0010778,Felipe Carvalho Fernandes,785.983.114-72,1998-08-19,Masculino,2023-06-19,,,Atendente Júnior,Customer Success,São Paulo,0010522,2542.97,CLT,2024-09-01
+0011102,Camila Ferreira Moreira,473.618.914-20,1991-10-01,Feminino,2024-11-06,2025-01-26,Pedido de demissão,Atendente Sênior,Customer Success,Campinas,0010374,4203.57,CLT,2024-11-06
+0010809,Natália Cardoso Souza,885.133.491-94,1988-02-27,Feminino,2023-08-16,,,Operador de Logística Sênior,Operações,Recife,0010791,5833.3,CLT,2024-09-01
+0010171,Thiago Rocha Costa,408.507.597-73,1984-08-05,Masculino,2015-06-23,,,Operador de Logística Júnior,Operações,Curitiba,0010135,2699.31,CLT,2024-09-01
+0010471,Thiago Ribeiro Carvalho,150.731.947-99,1979-03-25,Masculino,2015-06-27,,,Atendente Pleno,Customer Success,São Paulo,0010993,3799.14,CLT,2024-12-15
+0010090,Daniela Moreira Almeida,654.393.805-66,1978-04-02,Feminino,2017-03-25,,,Engenheiro de Software Júnior,Tecnologia,Recife,0010009,7902.1,CLT,2024-09-01
+0010915,Patrícia Barbosa Pereira,280.505.341-97,1990-12-21,Feminino,2024-02-23,,,Diretor de Comercial,Comercial,Curitiba,0010001,27067.54,CLT,2024-02-23
+0010062,Thiago Dias Rocha,083.085.489-46,1979-11-14,Masculino,2019-05-04,,,Engenheiro de Software Júnior,Tecnologia,Recife,0010008,9065.64,CLT,2024-09-01
+0010001,Lucas Carvalho Martins,578.203.289-83,1979-01-04,Masculino,2014-03-03,,,Presidente,Pessoas,São Paulo,,95000.0,CLT,2014-03-03
+0010054,Gustavo Oliveira Castro,993.676.763-28,1979-07-26,Masculino,2015-04-01,,,Engenheiro de Software Pleno,Tecnologia,Curitiba,0010009,12738.1,CLT,2024-09-01
+0011036,Larissa Castro Gomes,267.606.355-31,2001-09-24,Feminino,2024-08-24,,,Operador de Logística Pleno,Operações,São Paulo,0010313,3928.98,CLT,2024-09-01
+0010817,Mariana Fernandes Dias,121.301.618-55,1993-11-06,Feminino,2023-08-27,,,Atendente Júnior,Customer Success,São Paulo,0010705,2674.5,CLT,2024-09-01
+0010180,Gabriela Ferreira Costa,374.617.504-61,1979-11-01,Feminino,2019-09-10,,,Operador de Logística Júnior,Operações,Campinas,0010144,2950.69,CLT,2024-09-01
+0010175,João Araújo Almeida,172.771.321-49,1980-10-24,Masculino,2016-09-16,,,Operador de Logística Sênior,Operações,Campinas,0010139,5440.16,CLT,2024-09-01
+0010289,Natália Gomes Santos,844.830.330-00,1991-03-12,Feminino,2018-12-09,,,Operador de Logística Júnior,Operações,Campinas,0010145,2600.81,CLT,2024-09-01
+0011071,Natália Barbosa Souza,411.440.878-99,1990-09-23,Feminino,2024-10-07,,,Operador de Logística Júnior,Operações,Campinas,0010135,2522.92,CLT,2024-10-07
+0010237,Natália Barbosa Teixeira,915.590.417-30,1996-02-13,Feminino,2019-12-25,,,Operador de Logística Pleno,Operações,Campinas,0010183,3634.1,CLT,2024-09-01
+0011051,Otávio Moreira Ribeiro,936.783.269-94,1993-04-23,Masculino,2024-09-06,,,Operador de Logística Pleno,Operações,São Paulo,0011053,3418.43,CLT,2024-12-26
+0010297,Vinícius Souza Barbosa,656.781.894-84,1985-12-16,Masculino,2019-12-05,,,Operador de Logística Júnior,Operações,Curitiba,0010135,3055.97,CLT,2024-09-01
+0010341,Daniela Vieira Santos,945.084.726-64,1973-05-20,Feminino,2015-11-15,,,Operador de Logística Júnior,Operações,Recife,0010143,2550.49,CLT,2024-09-01
+0010890,Mariana Lima Ribeiro,110.298.106-05,1983-07-28,Feminino,2023-12-03,,,Operador de Logística Sênior,Operações,Campinas,0010741,4890.51,CLT,2024-09-01
+0010286,Thiago Fernandes Ferreira,794.090.043-90,1984-04-03,Masculino,2021-10-22,,,Coordenador de Operações,Operações,Campinas,0010126,5594.98,CLT,2024-09-01
+0010758,Nicolas Cardoso Rocha,284.622.308-45,1979-10-20,Masculino,2023-05-03,,,Atendente Pleno,Customer Success,Campinas,0010993,3841.73,CLT,2024-12-15
+0010918,Igor Silva Dias,012.927.324-40,1989-11-14,Masculino,2024-02-23,,,Operador de Logística Sênior,Operações,Curitiba,0010286,4748.31,CLT,2024-09-01
+0010771,Helena Cardoso Carvalho,442.949.643-91,2002-10-01,Feminino,2023-06-17,,,Operador de Logística Júnior,Operações,Curitiba,0010303,2695.14,CLT,2024-09-01
+0010470,Daniela Vieira Oliveira,738.245.705-21,1991-07-24,Feminino,2020-09-16,,,Atendente Júnior,Customer Success,Curitiba,0010374,2466.72,CLT,2024-08-02
+0010010,João Ribeiro Souza,740.548.630-43,1987-08-25,Masculino,2017-11-04,,,Coordenador de Tecnologia,Tecnologia,Campinas,0010004,19636.06,CLT,2024-09-01
+0010207,Gustavo Cardoso Melo,597.959.984-39,1991-07-16,Masculino,2020-09-21,,,Operador de Logística Pleno,Operações,Curitiba,0010135,3891.42,CLT,2024-09-01
+0011075,Lucas Carvalho Lima,607.091.045-10,1997-11-20,Masculino,2024-10-05,,,Operador de Logística Júnior,Operações,São Paulo,0010145,2454.66,CLT,2025-01-17
+0010975,Gabriela Vieira Gomes,743.989.062-07,1997-11-10,Feminino,2024-04-22,,,Atendente Pleno,Customer Success,Recife,0010454,3393.98,CLT,2024-10-14
+0010836,Igor Barbosa Silva,433.332.176-00,1989-07-19,Masculino,2023-09-10,,,Atendente Pleno,Customer Success,Curitiba,0010380,3638.82,CLT,2024-09-01
+0010748,Patrícia Souza Araújo,025.701.902-25,1986-08-24,Feminino,2023-04-12,2025-01-07,Pedido de demissão,Consultor Comercial Sênior,Comercial,Recife,0010571,6616.3,CLT,2024-11-17
+0010319,Helena Pereira Costa,963.412.540-91,1993-05-15,Feminino,2016-11-17,,,Operador de Logística Júnior,Operações,Recife,0010139,2747.83,CLT,2024-09-01
+0010006,Bruno Rocha Cardoso,593.546.465-90,1986-09-16,Masculino,2018-03-05,,,Coordenador de Tecnologia,Tecnologia,Campinas,0010004,19167.07,CLT,2024-09-01
+0010310,Gabriela Teixeira Dias,795.211.576-66,1977-04-08,Feminino,2018-02-23,,,Operador de Logística Júnior,Operações,Curitiba,0010148,2913.29,CLT,2024-09-01
+0010383,Ana Araújo Costa,096.920.445-05,1986-03-13,Feminino,2016-11-13,,,Atendente Pleno,Customer Success,Curitiba,0010371,2669.27,CLT,2024-09-01
+0010679,André Silva Oliveira,219.104.404-26,1990-09-22,Masculino,2023-01-20,,,Operador de Logística Sênior,Operações,Curitiba,0010143,5307.74,CLT,2024-09-01
+0010096,Thiago Ribeiro Costa,150.634.884-04,1980-05-21,Masculino,2015-07-22,,,Engenheiro de Software Pleno,Tecnologia,Curitiba,0010006,9676.52,CLT,2024-09-01
+0011013,Felipe Cardoso Castro,658.323.661-31,1980-05-24,Masculino,2024-07-12,,,Operador de Logística Júnior,Operações,Campinas,0010741,2557.4,CLT,2024-09-01
+0010080,Otávio Pereira Martins,925.780.523-95,1988-12-06,Masculino,2017-07-01,,,Engenheiro de Software Júnior,Tecnologia,Recife,0010008,8432.19,CLT,2024-09-01
+0010218,Igor Souza Almeida,074.871.173-24,1998-09-20,Masculino,2022-04-11,,,Operador de Logística Júnior,Operações,São Paulo,0011053,2814.95,CLT,2024-12-26
+0010719,Rafael Rocha Dias,680.401.952-09,1995-08-18,Masculino,2023-03-23,,,Operador de Logística Pleno,Operações,Campinas,0010135,4301.76,CLT,2024-09-01
+0010671,Júlia Castro Rocha,457.704.525-79,1981-10-18,Feminino,2019-09-01,,,Analista de RH Júnior,Pessoas,São Paulo,0010653,5669.7,CLT,2024-09-01
+0011068,Igor Castro Moreira,844.871.825-90,1983-07-04,Masculino,2024-10-15,,,Operador de Logística Júnior,Operações,Curitiba,0010741,2557.97,CLT,2024-10-15
+0010483,Larissa Martins Ribeiro,525.061.907-08,1997-05-26,Feminino,2015-03-10,,,Atendente Pleno,Customer Success,São Paulo,0010993,3853.84,CLT,2024-12-15
+0011127,Gustavo Costa Silva,377.255.671-00,1995-06-13,Masculino,2025-01-19,,,Operador de Logística Sênior,Operações,Campinas,0011053,4810.01,CLT,2025-01-19
+0010844,Daniel Costa Vieira,399.985.686-68,1977-01-16,Masculino,2023-10-01,,,Engenheiro de Software Júnior,Tecnologia,Curitiba,0010005,8526.39,CLT,2024-09-01
+0010541,Daniela Rocha Barbosa,638.638.954-95,1980-05-02,Feminino,2017-07-08,,,Consultor Comercial Júnior,Comercial,Recife,0010571,4345.09,CLT,2024-09-01
+0010345,Tatiana Dias Martins,459.997.513-30,1991-05-07,Feminino,2022-06-15,,,Operador de Logística Sênior,Operações,Curitiba,0010183,5669.17,CLT,2024-09-01
+0010219,Marcelo Costa Araújo,654.136.636-50,2004-10-21,Masculino,2022-06-01,,,Operador de Logística Pleno,Operações,Recife,0010183,3880.53,CLT,2024-09-01
+0010965,Sofia Ribeiro Oliveira,088.439.263-57,1997-10-02,Feminino,2024-04-20,,,Operador de Logística Sênior,Operações,Campinas,0010145,5703.84,CLT,2024-09-01
+0011027,Vinícius Fernandes Santos,753.408.129-79,1989-06-21,Masculino,2024-07-27,,,Analista Financeiro Júnior,Financeiro,Recife,0010612,5339.83,CLT,2024-09-01
+0010929,Lucas Rocha Ribeiro,910.106.170-44,1971-05-21,Masculino,2024-02-20,,,Operador de Logística Pleno,Operações,Recife,0010134,3827.64,CLT,2024-09-01
+0010190,Daniel Ribeiro Costa,577.481.941-81,1994-11-08,Masculino,2016-05-05,,,Operador de Logística Pleno,Operações,Curitiba,0010741,3173.96,CLT,2024-09-01
+0011072,Bruno Lima Barbosa,072.840.676-40,1992-09-22,Masculino,2024-10-01,,,Operador de Logística Júnior,Operações,Recife,0010139,2723.5,CLT,2024-10-01
+0011011,Vinícius Almeida Fernandes,715.545.113-48,1990-10-20,Masculino,2024-06-03,,,Consultor Comercial Júnior,Comercial,Recife,0010538,4603.82,CLT,2024-09-01
+0010271,Sofia Castro Carvalho,097.320.318-83,1988-12-07,Feminino,2021-10-14,,,Operador de Logística Pleno,Operações,São Paulo,0010145,3179.63,Temporário,2024-09-01
+0010068,Tatiana Ribeiro Oliveira,597.781.482-87,1978-04-08,Feminino,2019-06-12,,,Engenheiro de Software Pleno,Tecnologia,São Paulo,0010005,9444.6,CLT,2024-09-01
+0010900,Igor Lima Moreira,907.855.131-32,1996-06-03,Masculino,2023-12-02,,,Analista de RH Pleno,Pessoas,Curitiba,0010653,5544.14,CLT,2025-01-22
+0011103,Caio Barbosa Barbosa,034.881.712-64,1982-08-16,Masculino,2024-11-04,,,Atendente Pleno,Customer Success,Campinas,0010389,3199.03,CLT,2024-11-04
+0010714,André Oliveira Vieira,294.229.005-65,1992-09-06,Masculino,2023-03-26,,,Operador de Logística Júnior,Operações,Curitiba,0010741,2699.69,CLT,2024-09-01
+0010923,Caio Costa Ribeiro,881.019.007-64,1986-03-08,Masculino,2024-02-14,,,Operador de Logística Sênior,Operações,São Paulo,0010183,4926.97,CLT,2024-10-05
+0010431,Caio Santos Silva,440.168.489-38,1985-10-06,Masculino,2017-11-15,,,Atendente Pleno,Customer Success,Curitiba,0010371,2749.73,CLT,2024-09-01
+0010539,Bruno Silva Almeida,231.473.181-68,1988-06-25,Masculino,2020-08-25,,,Coordenador de Comercial,Comercial,Recife,0010534,11611.43,CLT,2024-09-01
+0010086,Igor Martins Carvalho,649.939.216-24,1989-02-20,Masculino,2022-09-02,,,Engenheiro de Software Sênior,Tecnologia,Curitiba,0010005,14456.01,CLT,2024-09-01
+0010511,Pedro Teixeira Moreira,634.153.645-34,1973-12-17,Masculino,2019-04-21,,,Atendente Pleno,Customer Success,Recife,0010403,3037.34,CLT,2024-09-01
+0010750,Eduarda Araújo Costa,680.184.310-94,1999-04-25,Feminino,2023-04-19,,,Consultor Comercial Júnior,Comercial,Recife,0010571,4167.5,CLT,2024-09-01
+0010625,Rafael Souza Silva,961.992.660-99,1996-07-01,Masculino,2022-12-08,,,Analista Financeiro Sênior,Financeiro,Campinas,0010613,11027.14,CLT,2024-09-01
+0010827,Helena Pereira Cardoso,768.247.149-25,1985-10-27,Feminino,2023-08-11,,,Consultor Comercial Júnior,Comercial,Recife,0010571,4213.29,CLT,2024-09-01
+0010263,Marcelo Gomes Barbosa,496.238.174-10,1974-11-05,Masculino,2018-07-15,,,Operador de Logística Pleno,Operações,Curitiba,0010721,3946.3,CLT,2024-09-01
+0010144,Bruno Fernandes Cardoso,021.300.484-47,1984-04-12,Masculino,2022-03-27,,,Coordenador de Operações,Operações,São Paulo,0010916,6444.09,CLT,2024-09-01
+0010088,Caio Fernandes Almeida,527.075.738-92,1984-07-24,Masculino,2019-05-12,,,Engenheiro de Software Pleno,Tecnologia,São Paulo,0010007,9989.17,CLT,2024-09-16
+0010380,Eduardo Rocha Silva,080.292.418-28,1996-04-24,Masculino,2020-05-18,,,Coordenador de Atendimento,Customer Success,São Paulo,0010368,5891.6,CLT,2024-09-01
+0010710,Vinícius Carvalho Silva,399.732.952-42,1999-01-08,Masculino,2023-02-26,,,Analista de RH Pleno,Pessoas,São Paulo,0010653,5516.28,CLT,2024-12-07
+0010811,Pedro Pereira Melo,300.639.989-71,2000-05-10,Masculino,2023-08-19,,,Operador de Logística Júnior,Operações,Campinas,0010721,2864.97,CLT,2024-09-01
+0010648,Gabriela Teixeira Moreira,577.622.529-91,1991-12-19,Feminino,2018-01-17,,,Analista Financeiro Júnior,Financeiro,São Paulo,0010612,5541.44,CLT,2024-09-01
+0010077,Eduarda Teixeira Silva,959.263.867-56,1984-08-07,Feminino,2021-06-18,,,Engenheiro de Software Sênior,Tecnologia,Recife,0010005,14695.72,CLT,2024-08-02
+0010198,João Almeida Vieira,954.654.938-01,1971-03-06,Masculino,2018-11-27,,,Operador de Logística Sênior,Operações,São Paulo,0010144,5466.85,CLT,2024-09-01
+0010505,Daniela Pereira Dias,488.260.459-09,1984-03-13,Feminino,2017-01-24,,,Atendente Júnior,Customer Success,Campinas,0010373,2279.77,CLT,2024-09-01
+0010494,João Melo Rocha,427.920.973-10,1988-01-13,Masculino,2018-08-08,,,Atendente Pleno,Customer Success,Recife,0010374,3803.42,CLT,2024-09-01
+0010716,Camila Martins Pereira,072.480.191-00,1992-03-17,Feminino,2023-03-15,,,Operador de Logística Júnior,Operações,Recife,0010143,2708.44,CLT,2024-09-01
+0010095,André Fernandes Araújo,613.290.545-63,1991-08-16,Masculino,2022-09-09,,,Engenheiro de Software Júnior,Tecnologia,São Paulo,0010005,7760.81,CLT,2024-09-01
+0010408,Larissa Santos Vieira,717.482.581-84,2003-02-10,Feminino,2022-05-08,,,Atendente Pleno,Customer Success,São Paulo,0011061,3797.69,CLT,2024-12-13
+0010701,Júlia Souza Almeida,137.537.895-34,1985-04-03,Feminino,2023-02-19,,,Atendente Sênior,Customer Success,São Paulo,0010371,4938.06,CLT,2024-09-01
+0010042,Felipe Pereira Almeida,441.523.179-90,1987-05-03,Masculino,2018-01-23,,,Engenheiro de Software Júnior,Tecnologia,Campinas,0010006,8294.57,CLT,2024-09-01
+0010454,Henrique Cardoso Martins,360.816.514-28,1990-04-17,Masculino,2016-12-08,,,Coordenador de Atendimento,Customer Success,Recife,0010914,6327.65,CLT,2024-10-14
+0010188,Nicolas Lima Gomes,031.579.260-47,1988-07-11,Masculino,2015-02-04,,,Operador de Logística Júnior,Operações,Curitiba,0010134,3207.12,CLT,2024-09-01
+0010549,Marcelo Martins Castro,535.902.365-15,1997-12-03,Masculino,2015-08-05,,,Consultor Comercial Júnior,Comercial,São Paulo,0010539,5222.93,CLT,2024-09-01
+0010118,Pedro Barbosa Vieira,271.638.637-48,1993-09-11,Masculino,2020-10-04,,,Engenheiro de Software Júnior,Tecnologia,São Paulo,0010010,8634.64,CLT,2024-09-01
+0011053,Ana Dias Lima,734.510.654-36,1995-02-06,Feminino,2024-09-26,,,Coordenador de Operações,Operações,Campinas,0010126,5633.71,CLT,2024-12-26
+0010869,Júlia Lima Almeida,163.456.785-46,1988-10-08,Feminino,2023-11-10,,,Operador de Logística Júnior,Operações,Recife,0010140,2653.43,CLT,2024-09-01
+0011074,Vitória Costa Ferreira,922.199.955-69,2002-05-17,Feminino,2024-10-06,,,Operador de Logística Sênior,Operações,Campinas,0010144,5133.2,CLT,2024-10-06
+0010803,Isabela Souza Melo,465.794.523-82,1998-11-18,Feminino,2023-07-17,,,Consultor Comercial Júnior,Comercial,São Paulo,0010567,4026.84,CLT,2024-09-01
+0011110,Rafael Costa Ribeiro,083.247.480-08,1990-02-01,Masculino,2024-12-15,,,Operador de Logística Júnior,Operações,Campinas,0010286,2603.07,CLT,2024-12-15
+0010641,Daniel Teixeira Carvalho,839.529.102-79,1988-08-19,Masculino,2021-06-15,,,Analista Financeiro Júnior,Financeiro,Curitiba,0010613,6041.55,CLT,2024-09-01
+0010063,Patrícia Carvalho Araújo,084.494.799-75,1986-04-21,Feminino,2019-07-21,,,Engenheiro de Software Júnior,Tecnologia,Recife,0010009,7704.89,CLT,2024-09-01
+0010149,Patrícia Moreira Santos,925.431.059-05,1993-05-28,Feminino,2016-02-23,,,Operador de Logística Pleno,Operações,Campinas,0010846,3421.11,CLT,2025-01-08
+0010695,Júlia Oliveira Costa,860.619.690-82,1991-01-14,Feminino,2023-02-17,,,Operador de Logística Pleno,Operações,Campinas,0010145,3694.2,Temporário,2024-09-01
+0010737,Gustavo Martins Ribeiro,426.147.961-31,1989-04-11,Masculino,2023-04-14,,,Operador de Logística Pleno,Operações,São Paulo,0010303,4220.65,Temporário,2024-09-01
+0011055,Bruno Dias Souza,377.527.710-23,1982-12-24,Masculino,2024-09-07,,,Operador de Logística Júnior,Operações,São Paulo,0010791,2517.04,CLT,2024-09-07
+0010567,João Costa Barbosa,039.916.212-74,2004-06-19,Masculino,2022-08-13,,,Coordenador de Comercial,Comercial,Recife,0010534,10869.71,CLT,2024-09-01
+0010360,Gabriela Pereira Barbosa,054.188.346-14,1978-05-26,Feminino,2018-05-25,,,Operador de Logística Júnior,Operações,Curitiba,0010144,2885.47,CLT,2024-09-01
+0011038,Natália Rocha Ribeiro,034.487.544-04,1992-10-21,Feminino,2024-08-19,,,Operador de Logística Sênior,Operações,Campinas,0010721,5310.87,CLT,2024-09-01
+0010116,Natália Moreira Ribeiro,445.473.049-04,1979-04-27,Feminino,2019-06-19,,,Engenheiro de Software Sênior,Tecnologia,São Paulo,0010008,15525.56,CLT,2024-09-01
+0010106,João Costa Lima,140.952.012-90,1997-10-10,Masculino,2019-03-20,,,Engenheiro de Software Sênior,Tecnologia,Campinas,0010007,16981.62,CLT,2024-09-01
+0010640,André Teixeira Santos,012.500.108-88,1977-08-16,Masculino,2020-08-23,,,Analista Financeiro Pleno,Financeiro,Campinas,0010612,6730.3,CLT,2024-09-01
+0010854,Henrique Almeida Martins,025.603.653-59,1983-04-15,Masculino,2023-10-09,,,Operador de Logística Pleno,Operações,Campinas,0010846,3846.82,CLT,2025-01-08
+0010108,Gustavo Dias Pereira,082.164.747-41,1982-12-28,Masculino,2018-11-12,,,Engenheiro de Software Pleno,Tecnologia,São Paulo,0010009,10892.01,CLT,2024-09-01
+0010895,André Araújo Cardoso,799.373.242-54,1986-06-17,Masculino,2023-12-11,,,Atendente Júnior,Customer Success,Curitiba,0011061,2302.19,CLT,2024-12-13
+0010820,Daniel Martins Martins,955.906.760-53,1985-05-06,Masculino,2023-08-17,,,Atendente Sênior,Customer Success,Recife,0010374,4903.92,CLT,2024-09-01
+0010117,Vinícius Souza Dias,138.619.831-50,1967-07-20,Masculino,2016-07-08,,,Engenheiro de Software Pleno,Tecnologia,Curitiba,0010009,10952.62,CLT,2024-09-01
+0010093,Gustavo Ferreira Silva,146.296.327-78,1988-05-20,Masculino,2017-12-06,,,Engenheiro de Software Júnior,Tecnologia,Recife,0010048,9199.04,CLT,2024-09-01
+0010736,Sofia Carvalho Pereira,533.880.527-86,1966-04-13,Feminino,2023-04-15,,,Operador de Logística Júnior,Operações,São Paulo,0010303,2563.35,CLT,2024-09-01
+0010792,Larissa Ribeiro Costa,616.610.613-03,1999-03-24,Feminino,2023-07-10,,,Operador de Logística Júnior,Operações,São Paulo,0010135,3016.61,CLT,2024-09-01
+0010805,Nicolas Pereira Souza,893.579.248-92,1990-04-11,Masculino,2023-07-21,,,Analista Financeiro Júnior,Financeiro,São Paulo,0010612,5489.74,CLT,2024-09-01
+0010846,Vitória Barbosa Gomes,112.545.397-43,1981-07-01,Feminino,2023-10-27,,,Coordenador de Operações,Operações,Recife,0010127,6127.46,CLT,2025-01-08
+0010241,Henrique Vieira Costa,397.408.240-99,1961-05-02,Masculino,2019-01-20,,,Operador de Logística Júnior,Operações,São Paulo,0010313,2830.82,CLT,2024-09-01
+0010352,Rafael Melo Santos,818.154.921-04,1969-06-02,Masculino,2015-06-07,,,Operador de Logística Júnior,Operações,São Paulo,0010741,2917.28,CLT,2024-09-01
+0010944,Tatiana Barbosa Araújo,805.244.308-37,2001-06-24,Feminino,2024-03-10,,,Operador de Logística Júnior,Operações,Campinas,0010144,2475.82,CLT,2024-09-01
+0010789,Larissa Souza Santos,074.959.407-19,1990-12-18,Feminino,2023-07-18,,,Operador de Logística Júnior,Operações,Curitiba,0010846,3034.45,CLT,2025-01-08
+0011138,Gabriela Moreira Araújo,021.774.841-46,1999-08-18,Feminino,2025-01-07,,,Consultor Comercial Sênior,Comercial,São Paulo,0010539,7258.42,CLT,2025-01-07
+0011136,Gustavo Castro Oliveira,679.259.396-64,1998-11-28,Masculino,2025-01-24,,,Consultor Comercial Júnior,Comercial,Campinas,0010571,4924.69,CLT,2025-01-24
+0011121,Tatiana Dias Carvalho,877.024.158-94,1991-11-18,Feminino,2025-01-18,,,Engenheiro de Software Júnior,Tecnologia,Recife,0010008,6955.36,CLT,2025-01-18
+0011044,Gabriela Ribeiro Barbosa,203.004.391-56,1997-05-27,Feminino,2024-08-02,,,Atendente Júnior,Customer Success,Campinas,0010743,2313.93,CLT,2024-09-01
+0010726,Igor Martins Ferreira,032.978.142-17,2002-12-27,Masculino,2023-03-14,,,Atendente Pleno,Customer Success,Curitiba,0011061,3204.95,CLT,2024-12-13
+0011032,Pedro Oliveira Pereira,793.064.013-29,1996-08-25,Masculino,2024-08-19,,,Operador de Logística Júnior,Operações,Campinas,0010986,31022.7,Temporário,2024-12-02
+0010724,Isabela Martins Cardoso,013.352.707-79,2001-06-10,Feminino,2023-03-17,,,Atendente Júnior,Customer Success,Recife,0010403,2292.95,CLT,2024-09-01
+0010389,Fernanda Melo Araújo,906.225.303-21,1991-11-18,Feminino,2019-03-15,,,Coordenador de Atendimento,Customer Success,Recife,0010368,5672.95,CLT,2024-09-01
+0010619,Felipe Martins Ferreira,556.926.366-70,1983-07-19,Masculino,2018-04-06,,,Analista Financeiro Sênior,Financeiro,São Paulo,0010613,11016.39,CLT,2024-09-01
+0010868,João Moreira Fernandes,939.928.232-53,1988-12-02,Masculino,2023-11-13,,,Operador de Logística Pleno,Operações,Campinas,0010135,3594.14,Temporário,2024-09-01
+0010916,Thiago Rocha Cardoso,070.465.819-40,2006-08-17,Masculino,2024-02-08,,,Gerente de Operações,Operações,Curitiba,0010124,10806.11,CLT,2024-09-01
+0011020,Thiago Carvalho Araújo,991.222.360-82,1985-01-07,Masculino,2024-07-27,,,Atendente Pleno,Customer Success,Campinas,0010403,2964.61,CLT,2024-09-01
+0010644,Ana Fernandes Cardoso,670.017.890-89,1985-09-08,Feminino,2017-05-08,,,Analista Financeiro Sênior,Financeiro,Campinas,0010612,11508.07,CLT,2024-09-01
+0010647,Daniel Araújo Souza,811.060.279-73,1982-09-13,Masculino,2015-06-05,,,Analista Financeiro Sênior,Financeiro,Campinas,0010613,10349.36,CLT,2024-09-01
+0011066,Caio Cardoso Gomes,424.810.269-26,1984-08-02,Masculino,2024-10-27,,,Engenheiro de Software Pleno,Tecnologia,Campinas,0010058,9685.43,CLT,2024-10-27
+0010611,Beatriz Costa Oliveira,640.673.120-40,1988-09-16,Feminino,2015-11-27,,,Gerente de Financeiro,Financeiro,Curitiba,0010610,18988.04,CLT,2024-09-01
+0011064,Thiago Carvalho Dias,793.384.060-40,1978-07-08,Masculino,2024-09-02,,,Atendente Pleno,Customer Success,Campinas,0010389,2748.98,CLT,2024-09-02
+0010980,Patrícia Castro Martins,021.727.297-52,1997-01-05,Feminino,2024-05-11,,,Engenheiro de Software Júnior,Tecnologia,São Paulo,0010008,7257.1,CLT,2024-09-01
+0011135,Patrícia Martins Fernandes,762.145.757-00,1998-04-20,Feminino,2025-01-08,,,Consultor Comercial Pleno,Comercial,Campinas,0010571,5658.06,CLT,2025-01-08
+0010688,Sofia Araújo Silva,331.771.377-14,1988-08-17,Feminino,2023-01-25,,,Consultor Comercial Sênior,Comercial,Recife,0010535,8027.16,CLT,2024-09-01
+0010841,Gabriela Ribeiro Teixeira,545.548.023-53,1977-04-23,Feminino,2023-09-08,,,Consultor Comercial Pleno,Comercial,Recife,0010538,5965.43,CLT,2024-09-01
+0010179,João Vieira Pereira,705.294.494-47,1996-09-14,Masculino,2020-03-06,,,Operador de Logística Pleno,Operações,São Paulo,0010143,3245.21,CLT,2024-09-01
+0010653,André Almeida Gomes,705.364.504-55,1985-04-10,Masculino,2017-03-02,,,Coordenador de Pessoas,Pessoas,Campinas,0010650,12375.24,CLT,2024-09-01
+0010963,André Dias Rocha,823.054.210-44,1974-07-23,Masculino,2024-04-09,,,Engenheiro de Software Júnior,Tecnologia,Recife,0010006,7246.49,CLT,2024-09-01
+0010896,Henrique Ferreira Almeida,592.116.116-01,1993-12-02,Masculino,2023-12-17,,,Atendente Sênior,Customer Success,Curitiba,0010373,4132.4,CLT,2024-09-01
+0010873,Larissa Almeida Dias,670.013.695-43,2003-12-20,Feminino,2023-11-20,,,Operador de Logística Sênior,Operações,Recife,0010145,5511.96,CLT,2024-09-01
+0011117,Vitória Castro Araújo,799.957.837-11,2000-12-18,Feminino,2024-12-23,,,Consultor Comercial Júnior,Comercial,São Paulo,0010535,4189.54,CLT,2024-12-23
+0010635,Caio Melo Souza,933.129.128-06,1986-03-23,Masculino,2019-01-01,,,Analista Financeiro Sênior,Financeiro,São Paulo,0010613,8454.02,CLT,2024-12-08
+0011008,Ana Lima Ribeiro,780.856.133-95,1989-11-03,Feminino,2024-06-07,,,Atendente Júnior,Customer Success,Recife,0010743,2446.83,CLT,2024-09-01
+0010084,Henrique Cardoso Barbosa,989.493.353-01,1965-01-23,Masculino,2016-03-23,,,Engenheiro de Software Júnior,Tecnologia,Recife,0010048,8809.24,CLT,2024-09-01
+0010163,Júlia Almeida Carvalho,095.883.467-97,1994-06-09,Feminino,2020-01-07,,,Operador de Logística Júnior,Operações,São Paulo,0010145,3018.76,CLT,2024-09-01
+0010005,Henrique Barbosa Ribeiro,057.568.636-72,1999-08-19,Masculino,2019-09-18,,,Coordenador de Tecnologia,Tecnologia,Curitiba,0010003,20543.69,CLT,2024-09-01
+0010082,Vinícius Moreira Moreira,156.601.922-20,1982-08-21,Masculino,2017-03-03,,,Engenheiro de Software Júnior,Tecnologia,São Paulo,0010010,8422.64,CLT,2024-09-01
+0010186,Fernanda Gomes Costa,252.900.392-01,1987-12-03,Feminino,2020-11-11,,,Operador de Logística Sênior,Operações,Campinas,0010986,5657.97,CLT,2024-12-02
+0010600,Pedro Oliveira Barbosa,799.609.264-86,1973-03-10,Masculino,2020-01-23,,,Consultor Comercial Júnior,Comercial,Recife,0010535,4504.85,CLT,2024-09-01
+0010684,Larissa Castro Barbosa,023.807.189-89,1984-08-24,Feminino,2023-01-24,,,Atendente Júnior,Customer Success,São Paulo,0010743,2883.3,CLT,2024-09-01
+0011115,Gustavo Ribeiro Santos,433.885.739-05,1979-08-24,Masculino,2024-12-10,,,Atendente Júnior,Customer Success,Campinas,0010993,2509.57,CLT,2024-12-10
+0010594,Eduardo Santos Moreira,070.795.621-80,1985-10-22,Masculino,2018-01-12,,,Consultor Comercial Sênior,Comercial,Curitiba,0010539,7398.92,CLT,2024-09-01
+0010872,André Gomes Dias,392.405.229-80,1994-08-28,Masculino,2023-11-27,,,Operador de Logística Júnior,Operações,Recife,0010144,2668.7,CLT,2024-09-01
+0011134,Tatiana Carvalho Gomes,116.984.821-40,1987-02-17,Feminino,2025-01-04,,,Consultor Comercial Júnior,Comercial,Campinas,0010571,4188.94,CLT,2025-01-04
+0010822,Eduardo Ribeiro Vieira,769.807.985-61,1993-03-10,Masculino,2023-08-24,,,Atendente Pleno,Customer Success,Curitiba,0010389,3504.68,CLT,2024-09-01
+0010888,Caio Rocha Rocha,052.387.522-37,1985-09-13,Masculino,2023-12-10,,,Operador de Logística Júnior,Operações,Campinas,0010135,2953.69,CLT,2024-09-01
+0010865,Patrícia Santos Rocha,496.702.235-98,1971-03-10,Feminino,2023-11-26,,,Engenheiro de Software Júnior,Tecnologia,Campinas,0010048,7123.34,CLT,2024-09-01
+0010630,Nicolas Fernandes Cardoso,656.909.975-28,1978-04-12,Masculino,2015-07-14,,,Analista Financeiro Sênior,Financeiro,Campinas,0010612,9135.85,CLT,2024-09-01
+0010023,Nicolas Souza Lima,538.116.685-01,1980-05-19,Masculino,2018-11-13,,,Engenheiro de Software Pleno,Tecnologia,São Paulo,0010005,8302.64,CLT,2024-09-01
+0010056,Camila Vieira Castro,024.876.381-41,1980-05-03,Feminino,2016-04-09,,,Engenheiro de Software Júnior,Tecnologia,Campinas,0010011,6870.53,CLT,2024-09-01
+0010991,Henrique Ribeiro Fernandes,385.852.206-60,1990-10-05,Masculino,2024-05-02,,,Atendente Pleno,Customer Success,Campinas,0010373,3527.4,CLT,2024-09-01
+0010256,Sofia Costa Rocha,803.478.023-54,1981-07-08,Feminino,2018-09-04,,,Operador de Logística Sênior,Operações,Recife,0010148,4636.18,CLT,2024-09-01
+0010057,André Carvalho Rocha,722.279.727-00,1995-09-09,Masculino,2021-01-04,,,Engenheiro de Software Sênior,Tecnologia,Curitiba,0010048,13312.62,CLT,2024-09-01
+0010418,Mariana Barbosa Dias,074.326.032-51,1987-08-12,Feminino,2018-07-27,,,Atendente Pleno,Customer Success,Curitiba,0010454,3242.07,CLT,2024-10-14
+0010712,Bruno Martins Teixeira,779.887.163-28,1969-04-03,Masculino,2023-03-16,,,Engenheiro de Software Sênior,Tecnologia,Recife,0010008,15147.7,CLT,2024-09-01
+0010947,Bruno Dias Moreira,484.131.980-89,1989-05-11,Masculino,2024-03-05,2025-01-10,Justa causa,Operador de Logística Júnior,Operações,Recife,0010135,2651.01,CLT,2024-09-01
+0010120,Camila Fernandes Dias,141.733.201-83,1996-07-07,Feminino,2019-03-13,,,Engenheiro de Software Júnior,Tecnologia,Campinas,0010048,7560.67,CLT,2024-09-01
+0010534,Vinícius Rocha Fernandes,679.329.520-93,1980-02-22,Masculino,2016-10-04,,,Gerente de Comercial,Comercial,Campinas,0010915,15197.43,CLT,2024-09-01
+0010326,Nicolas Moreira Araújo,422.875.943-29,1983-10-02,Masculino,2020-08-12,,,Operador de Logística Pleno,Operações,São Paulo,0011053,3186.23,CLT,2024-12-26
+0010994,Gabriela Fernandes Melo,896.225.633-92,1989-04-16,Feminino,2024-05-08,,,Consultor Comercial Pleno,Comercial,São Paulo,0010571,5675.89,CLT,2024-09-01
+0010914,Júlia Barbosa Ferreira,155.442.762-26,1984-07-02,Feminino,2024-02-16,,,Gerente de Atendimento,Customer Success,Campinas,0010711,8389.26,CLT,2024-09-01
+0011028,Vinícius Oliveira Fernandes,202.885.405-73,1991-05-09,Masculino,2024-07-25,,,Analista Financeiro Júnior,Financeiro,São Paulo,0010612,5963.97,CLT,2024-09-01
+0010148,Vitória Ribeiro Costa,513.370.364-39,1989-09-10,Feminino,2020-08-19,,,Coordenador de Operações,Operações,São Paulo,0010126,6511.08,CLT,2024-09-01
+0010627,Henrique Souza Vieira,814.381.107-74,1989-02-07,Masculino,2019-05-12,,,Analista Financeiro Sênior,Financeiro,Curitiba,0010613,11181.69,CLT,2024-09-01
+0010715,Vitória Martins Dias,535.029.696-55,1993-07-12,Feminino,2023-03-02,,,Operador de Logística Pleno,Operações,Curitiba,0010139,3962.79,Temporário,2024-09-01
+0011112,Thiago Carvalho Teixeira,363.324.852-80,1992-03-20,Masculino,2024-12-19,,,Atendente Sênior,Customer Success,Campinas,0011061,4304.27,CLT,2024-12-19
+0011062,Bruno Ferreira Pereira,585.896.710-89,1983-02-28,Masculino,2024-09-20,,,Atendente Sênior,Customer Success,São Paulo,0010374,4188.27,CLT,2024-09-20
+0010681,Camila Silva Santos,256.403.366-09,1992-05-04,Feminino,2023-01-26,,,Operador de Logística Pleno,Operações,Recife,0010846,3869.71,CLT,2025-01-08
+0010214,Daniel Silva Moreira,280.302.724-05,1984-11-17,Masculino,2021-08-08,,,Operador de Logística Pleno,Operações,São Paulo,0010286,4027.35,CLT,2024-09-01
+0010691,Nicolas Souza Lima,344.935.585-63,1996-12-25,Masculino,2023-02-21,,,Engenheiro de Software Júnior,Tecnologia,São Paulo,0010007,7995.68,CLT,2024-09-01
+0010474,Gustavo Fernandes Almeida,287.302.616-27,1990-08-12,Masculino,2022-10-13,,,Atendente Júnior,Customer Success,Curitiba,0010522,2466.16,CLT,2024-09-01
+0010582,Caio Lima Melo,702.892.767-99,1976-12-16,Masculino,2017-02-24,,,Consultor Comercial Júnior,Comercial,Curitiba,0010567,4582.63,CLT,2024-09-01
+0010044,João Silva Barbosa,253.411.326-70,1998-04-16,Masculino,2021-06-16,,,Engenheiro de Software Pleno,Tecnologia,Recife,0010008,10505.71,CLT,2024-09-01
+0010270,Patrícia Rocha Ferreira,356.419.233-62,1983-09-26,Feminino,2015-10-14,,,Operador de Logística Pleno,Operações,Campinas,0010144,4149.96,CLT,2024-09-01
+0010358,Gustavo Martins Ribeiro,755.434.452-88,1984-08-20,Masculino,2019-04-15,,,Operador de Logística Pleno,Operações,Campinas,0010286,4600.98,CLT,2024-09-01
+0010784,Otávio Melo Araújo,007.701.781-11,2003-12-02,Masculino,2023-06-18,,,Analista Financeiro Pleno,Financeiro,São Paulo,0010612,6637.53,CLT,2024-09-24
+0010961,Rafael Teixeira Carvalho,809.642.585-44,1982-06-12,Masculino,2024-04-04,,,Engenheiro de Software Júnior,Tecnologia,Recife,0010048,8286.64,CLT,2024-09-01
+0010104,Renata Almeida Fernandes,053.597.067-67,1985-04-03,Feminino,2022-06-06,,,Engenheiro de Software Pleno,Tecnologia,Recife,0010005,8613.79,CLT,2024-09-01
+0010667,Vinícius Teixeira Martins,365.835.824-65,1988-06-01,Masculino,2022-03-15,,,Analista de RH Júnior,Pessoas,Recife,0010653,5392.54,CLT,2024-09-01
+0011076,Helena Santos Fernandes,901.113.627-68,1986-10-24,Feminino,2024-10-10,,,Operador de Logística Pleno,Operações,Campinas,0010148,3502.14,CLT,2024-10-10
+0010694,Marcelo Costa Gomes,232.209.289-43,1987-02-06,Masculino,2023-02-02,,,Operador de Logística Júnior,Operações,Curitiba,0010143,2963.51,Temporário,2024-09-01
+0010945,Gabriela Silva Teixeira,047.792.566-90,1979-12-27,Feminino,2024-03-01,,,Operador de Logística Pleno,Operações,Curitiba,0010286,3494.67,CLT,2024-09-01
+0010621,Larissa Pereira Moreira,020.671.002-03,1989-07-04,Feminino,2019-01-01,,,Analista Financeiro Júnior,Financeiro,Curitiba,0010613,5285.64,CLT,2024-09-01
+0010669,Helena Dias Lima,796.742.677-00,1983-07-19,Feminino,2020-03-10,,,Analista de RH Pleno,Pessoas,Campinas,0010653,7588.54,CLT,2024-09-01
+0010115,Beatriz Carvalho Silva,794.047.114-70,1984-06-18,Feminino,2022-11-10,,,Engenheiro de Software Júnior,Tecnologia,Recife,0010007,8295.88,CLT,2024-09-01
+0011093,Camila Pereira Moreira,087.445.086-11,1995-03-28,Feminino,2024-11-25,,,Engenheiro de Software Pleno,Tecnologia,São Paulo,0010010,10475.25,CLT,2024-11-25
+0010774,Gabriela Ferreira Martins,952.033.373-81,1995-06-15,Feminino,2023-06-11,,,Operador de Logística Júnior,Operações,Campinas,0010286,2665.28,CLT,2024-09-01
+0010187,Tatiana Vieira Moreira,888.164.102-05,1976-11-26,Feminino,2020-02-18,,,Operador de Logística Pleno,Operações,São Paulo,0010313,3817.95,CLT,2024-09-01
+0011124,Ana Santos Vieira,348.787.020-79,1998-09-01,Feminino,2025-01-08,,,Operador de Logística Pleno,Operações,Recife,0010791,3739.44,CLT,2025-01-08
+0011123,Marcelo Moreira Pereira,767.428.771-89,2000-07-26,Masculino,2025-01-05,,,Engenheiro de Software Sênior,Tecnologia,Recife,0010011,14714.08,CLT,2025-01-05
+0010705,Bruno Rocha Dias,883.408.170-60,1988-07-27,Masculino,2023-02-19,,,Coordenador de Atendimento,Customer Success,Campinas,0010914,6398.45,CLT,2024-09-01
+0010409,João Rocha Melo,809.543.169-91,1993-05-06,Masculino,2016-06-03,,,Atendente Sênior,Customer Success,Campinas,0010373,5173.59,CLT,2024-09-01
+0010735,Marcelo Araújo Teixeira,552.026.711-13,1996-10-11,Masculino,2023-03-16,,,Consultor Comercial Pleno,Comercial,Curitiba,0010535,6551.58,CLT,2024-09-01
+0010221,Gabriela Almeida Gomes,362.866.760-74,1981-08-23,Feminino,2016-01-01,,,Operador de Logística Pleno,Operações,Curitiba,0010846,4140.45,CLT,2025-01-08
+0011047,Otávio Barbosa Fernandes,377.815.553-92,1993-01-05,Masculino,2024-08-05,,,Atendente Júnior,Customer Success,Recife,0010993,2269.91,CLT,2024-12-15
+0010032,Thiago Santos Silva,709.928.296-40,1990-03-21,Masculino,2015-05-09,,,Engenheiro de Software Sênior,Tecnologia,São Paulo,0010005,14485.43,CLT,2024-09-01
+0010711,Nicolas Melo Gomes,681.433.171-37,1995-05-14,Masculino,2023-03-24,,,Diretor de Atendimento,Customer Success,Curitiba,0010001,13449.48,CLT,2023-03-24
+0010015,Henrique Castro Teixeira,637.210.422-98,1991-11-17,Masculino,2020-02-17,,,Engenheiro de Software Júnior,Tecnologia,Campinas,0010006,7898.78,CLT,2024-09-01
+0010544,Bruno Castro Rocha,538.174.995-31,1995-05-12,Masculino,2020-12-24,,,Consultor Comercial Pleno,Comercial,Campinas,0010539,5292.32,CLT,2024-09-01
+0010428,Eduarda Fernandes Araújo,292.170.970-80,1988-12-17,Feminino,2016-11-01,,,Atendente Pleno,Customer Success,Recife,0010380,3438.43,CLT,2024-09-01
+0010302,João Araújo Teixeira,771.080.091-29,1989-07-08,Masculino,2020-11-10,,,Operador de Logística Júnior,Operações,Recife,0010140,2698.95,CLT,2024-09-01
+0010051,Gabriela Gomes Costa,319.289.200-55,1985-03-27,Feminino,2016-03-18,,,Engenheiro de Software Júnior,Tecnologia,Curitiba,0010006,7715.55,CLT,2024-09-01
+0010101,Isabela Melo Castro,902.137.542-74,1989-02-01,Feminino,2020-04-22,,,Engenheiro de Software Júnior,Tecnologia,São Paulo,0010011,7320.24,CLT,2024-09-01
+0010092,Henrique Cardoso Castro,013.118.997-23,1978-02-08,Masculino,2019-08-06,,,Engenheiro de Software Júnior,Tecnologia,Recife,0010011,8309.92,CLT,2024-09-01
+0011056,Thiago Dias Araújo,014.005.598-39,1996-01-20,Masculino,2024-09-20,,,Operador de Logística Júnior,Operações,Campinas,0010143,2677.54,CLT,2024-09-20
+0010986,Gustavo Pereira Moreira,408.343.302-70,1989-05-15,Masculino,2024-05-11,,,Coordenador de Operações,Operações,Campinas,0010916,5905.7,CLT,2024-12-02
+0010473,Júlia Fernandes Ribeiro,198.800.184-60,1986-01-03,Feminino,2018-06-14,,,Atendente Júnior,Customer Success,São Paulo,0010389,2369.29,CLT,2024-09-01
+0010840,Gustavo Teixeira Vieira,074.547.556-66,2005-07-05,Masculino,2023-09-04,,,Consultor Comercial Júnior,Comercial,Campinas,0010535,4091.12,CLT,2024-09-01
+0010955,Sofia Teixeira Melo,039.289.597-86,1990-10-09,Feminino,2024-03-21,,,Atendente Júnior,Customer Success,Recife,0010380,2809.98,CLT,2024-09-01
+0010172,André Almeida Ribeiro,998.017.344-00,1971-10-23,Masculino,2018-04-25,,,Operador de Logística Júnior,Operações,Recife,0010741,2960.94,CLT,2024-09-01
+0011021,Natália Castro Teixeira,014.659.617-04,1990-09-15,Feminino,2024-07-17,,,Atendente Júnior,Customer Success,São Paulo,0010993,2179.51,CLT,2024-12-15
+0010002,Camila Ribeiro Cardoso,944.555.598-84,1988-10-10,Feminino,2021-10-09,,,Diretor de Tecnologia,Tecnologia,Recife,0010001,40292.22,CLT,2021-10-09
+0010322,Gustavo Fernandes Vieira,057.140.696-33,1983-05-16,Masculino,2017-10-12,,,Operador de Logística Júnior,Operações,São Paulo,0010286,2822.47,CLT,2024-09-01
+0010927,Daniel Araújo Pereira,921.626.582-59,1988-11-28,Masculino,2024-02-16,,,Operador de Logística Sênior,Operações,Campinas,0010986,4749.82,CLT,2024-12-02
+0010029,Felipe Carvalho Dias,139.507.730-45,1981-10-11,Masculino,2018-06-01,,,Engenheiro de Software Júnior,Tecnologia,Campinas,0010011,8159.81,CLT,2024-09-01
+0010064,Thiago Melo Pereira,555.673.656-16,1982-10-02,Masculino,2018-03-03,,,Engenheiro de Software Sênior,Tecnologia,Campinas,0010010,15503.0,CLT,2024-09-01
+0010871,Larissa Fernandes Dias,051.191.385-00,1992-04-06,Feminino,2023-11-26,,,Operador de Logística Pleno,Operações,São Paulo,0010143,3629.09,CLT,2024-09-01
+0010321,Tatiana Lima Castro,074.035.492-28,1988-03-04,Feminino,2021-05-24,,,Operador de Logística Pleno,Operações,Campinas,0010303,3871.38,CLT,2024-09-01
+0010048,Igor Oliveira Fernandes,268.224.158-15,1983-08-03,Masculino,2015-07-07,,,Coordenador de Tecnologia,Tecnologia,Campinas,0010004,18698.42,CLT,2024-09-01
+0010602,Rafael Costa Ribeiro,926.666.993-82,1996-05-26,Masculino,2020-01-18,,,Consultor Comercial Sênior,Comercial,Recife,0010567,8882.83,CLT,2024-09-01
+0010579,Beatriz Dias Souza,209.276.056-43,1982-07-25,Feminino,2020-04-12,,,Consultor Comercial Sênior,Comercial,São Paulo,0010539,8755.3,CLT,2024-09-01
+0010658,Mariana Vieira Moreira,995.411.980-90,1994-07-18,Feminino,2022-05-13,,,Analista de RH Júnior,Pessoas,Recife,0010653,5659.48,CLT,2024-09-01
+0010004,Caio Melo Melo,734.068.615-04,1977-04-06,Masculino,2018-02-06,,,Gerente de Tecnologia,Tecnologia,São Paulo,0010002,27657.97,CLT,2024-09-01
+0010523,Otávio Oliveira Martins,776.996.117-30,1998-07-24,Masculino,2017-01-25,,,Atendente Sênior,Customer Success,Curitiba,0010403,5183.05,CLT,2024-09-01
+0010464,Mariana Gomes Ferreira,130.238.176-85,1991-06-15,Feminino,2020-01-08,,,Atendente Pleno,Customer Success,Curitiba,0010380,3620.42,CLT,2024-09-01
+0010164,Rafael Rocha Oliveira,280.107.882-44,1977-11-17,Masculino,2017-04-16,,,Operador de Logística Júnior,Operações,Recife,0011053,2805.14,CLT,2024-12-26
+0011040,João Moreira Silva,145.250.434-23,1982-09-21,Masculino,2024-08-04,,,Operador de Logística Júnior,Operações,Recife,0010145,3042.05,CLT,2024-09-01
+0010449,André Fernandes Rocha,473.790.684-07,1986-01-13,Masculino,2020-01-11,,,Atendente Júnior,Customer Success,Recife,0010389,2666.01,CLT,2024-09-01
+0011033,Felipe Pereira Souza,017.447.072-00,1999-12-11,Masculino,2024-08-21,,,Operador de Logística Sênior,Operações,São Paulo,0011053,5394.57,CLT,2024-12-26
+0010981,Gabriela Gomes Ferreira,812.512.120-00,1990-01-06,Feminino,2024-05-17,,,Engenheiro de Software Sênior,Tecnologia,Recife,0010058,13799.13,CLT,2024-09-01
+0010569,Nicolas Moreira Silva,373.395.258-82,1989-09-22,Masculino,2022-11-24,,,Consultor Comercial Júnior,Comercial,Campinas,0010539,4906.57,CLT,2024-09-01
+0010038,Nicolas Carvalho Silva,868.924.240-66,1978-09-21,Masculino,2019-02-08,,,Engenheiro de Software Sênior,Tecnologia,Recife,0010011,16284.59,CLT,2024-09-01
+0010891,Isabela Lima Lima,915.964.515-64,1981-04-23,Feminino,2023-12-18,,,Operador de Logística Júnior,Operações,Campinas,0010313,2774.95,CLT,2024-09-01
+0010752,Júlia Costa Ribeiro,192.621.352-11,1996-11-21,Feminino,2023-05-11,,,Operador de Logística Júnior,Operações,Campinas,0010140,2883.48,CLT,2024-09-01
+0010303,Tatiana Oliveira Ferreira,129.145.087-43,1983-04-22,Feminino,2017-03-17,,,Coordenador de Operações,Operações,São Paulo,0010125,6846.12,CLT,2024-09-01
+0011005,Felipe Ribeiro Ribeiro,808.985.137-15,1999-05-23,Masculino,2024-06-03,,,Operador de Logística Júnior,Operações,Curitiba,0010140,2543.09,CLT,2024-09-01
+0010796,Beatriz Martins Castro,705.019.969-90,1986-02-18,Feminino,2023-07-07,,,Operador de Logística Pleno,Operações,Curitiba,0010145,3424.14,CLT,2024-09-01
+0010990,André Gomes Teixeira,402.215.894-81,1973-12-16,Masculino,2024-05-05,,,Atendente Júnior,Customer Success,Campinas,0010522,2195.07,CLT,2024-09-01
+0010077,Eduarda Teixeira Silva,959.263.867-56,1984-08-07,Feminino,2021-06-18,,,Engenheiro de Software Sênior,Tecnologia,Recife,0010005,15150.23,CLT,2024-09-01
+0010295,Eduardo Teixeira Silva,087.989.652-39,1988-05-14,Masculino,2017-08-25,,,Operador de Logística Júnior,Operações,São Paulo,0010313,2834.5,CLT,2024-09-01
+0010862,Caio Pereira Ribeiro,024.794.388-64,1994-07-25,Masculino,2023-10-10,,,Analista de RH Pleno,Pessoas,São Paulo,0010653,6810.99,CLT,2024-09-01
+0010413,Vinícius Souza Oliveira,655.393.494-07,1977-11-28,Masculino,2016-01-06,,,Atendente Júnior,Customer Success,Recife,0010389,2486.77,CLT,2024-09-01
+0010834,Tatiana Rocha Melo,793.711.250-63,2000-09-15,Feminino,2023-09-13,,,Operador de Logística Júnior,Operações,Campinas,0010183,2506.75,Temporário,2024-09-01
+0010543,Bruno Moreira Araújo,195.763.399-95,1979-08-25,Masculino,2019-07-03,,,Consultor Comercial Sênior,Comercial,Campinas,0010538,9123.7,CLT,2024-09-01
+0010239,Fernanda Rocha Costa,083.624.620-94,1989-10-17,Feminino,2016-05-15,2025-01-07,Dispensa sem justa causa,Coordenador de Operações,Operações,São Paulo,0010127,6032.02,CLT,2024-09-01
+0011046,Daniel Costa Souza,257.800.262-20,1993-10-07,Masculino,2024-08-02,,,Atendente Pleno,Customer Success,São Paulo,0010373,3854.64,CLT,2024-09-01
+0010779,Tatiana Cardoso Ferreira,677.185.125-76,1990-08-23,Feminino,2023-06-09,,,Atendente Júnior,Customer Success,São Paulo,0011061,2528.62,CLT,2024-12-13
+0011104,Otávio Melo Pereira,008.845.395-20,1991-10-25,Masculino,2024-11-04,,,Atendente Júnior,Customer Success,Curitiba,0010403,2178.51,CLT,2024-11-04
+0010045,Fernanda Lima Dias,792.883.323-91,1975-11-27,Feminino,2022-04-13,,,Engenheiro de Software Pleno,Tecnologia,Recife,0010009,9700.01,CLT,2024-09-01
+0010109,Camila Carvalho Martins,531.900.027-89,1982-02-01,Feminino,2019-03-11,,,Engenheiro de Software Júnior,Tecnologia,São Paulo,0010010,7707.97,CLT,2024-09-01
+0010535,Gustavo Melo Santos,831.513.216-40,1994-11-09,Masculino,2021-04-13,,,Coordenador de Comercial,Comercial,São Paulo,0010534,10849.21,CLT,2024-09-01
+0010791,Sofia Melo Melo,064.347.965-10,1995-12-20,Feminino,2023-07-26,,,Coordenador de Operações,Operações,Recife,0010126,6207.59,CLT,2024-09-01
+0010022,João Silva Rocha,113.046.621-36,1987-07-26,Masculino,2021-02-20,,,Engenheiro de Software Pleno,Tecnologia,Curitiba,0010058,9335.82,CLT,2024-09-01
+0011125,Fernanda Lima Oliveira,546.437.505-88,2005-02-14,Feminino,2025-01-01,,,Operador de Logística Júnior,Operações,Curitiba,0010791,2340.49,Temporário,2025-01-01
+0011009,Rafael Cardoso Gomes,015.793.563-97,2001-02-22,Masculino,2024-06-03,,,Atendente Pleno,Customer Success,Recife,0011061,3431.89,CLT,2024-12-13
+0010291,Otávio Vieira Dias,472.935.161-42,1983-04-04,Masculino,2015-12-20,,,Operador de Logística Sênior,Operações,Recife,0010183,5558.22,CLT,2024-09-01
+0010772,Vinícius Cardoso Gomes,257.923.224-90,1999-08-02,Masculino,2023-06-24,,,Operador de Logística Pleno,Operações,Curitiba,0010313,3110.83,CLT,2024-09-15
+0010338,Renata Ribeiro Costa,801.620.516-03,1986-02-18,Feminino,2020-11-09,,,Operador de Logística Sênior,Operações,Curitiba,0010140,5980.72,CLT,2024-09-01
+0010966,Igor Lima Ferreira,793.923.711-01,1993-11-14,Masculino,2024-04-05,,,Operador de Logística Sênior,Operações,Recife,0010183,5927.07,CLT,2024-09-01
+0011004,Natália Gomes Rocha,373.944.041-45,1992-07-23,Feminino,2024-06-03,,,Operador de Logística Pleno,Operações,Campinas,0010134,3944.79,CLT,2024-09-01
+0011060,Patrícia Gomes Cardoso,565.207.009-91,1980-08-07,Feminino,2024-09-25,,,Atendente Júnior,Customer Success,Curitiba,0010705,2176.99,CLT,2024-09-25
+0010332,Henrique Martins Teixeira,164.475.036-80,1979-06-10,Masculino,2016-09-05,,,Operador de Logística Sênior,Operações,Campinas,0010134,5693.08,CLT,2024-09-01
+0010083,Tatiana Santos Ferreira,301.136.889-97,1990-10-19,Feminino,2021-08-15,,,Engenheiro de Software Júnior,Tecnologia,São Paulo,0010011,7691.07,CLT,2024-09-01
+0010046,Gabriela Dias Martins,019.428.481-61,1996-06-19,Feminino,2020-03-24,,,Engenheiro de Software Pleno,Tecnologia,Campinas,0010010,8992.59,CLT,2024-09-01
+0010938,Felipe Fernandes Teixeira,947.914.917-69,1998-02-07,Masculino,2024-02-27,,,Consultor Comercial Júnior,Comercial,Campinas,0010535,4617.49,CLT,2024-09-01
+0010997,Eduardo Pereira Castro,455.050.383-10,1986-07-06,Masculino,2024-06-03,,,Operador de Logística Pleno,Operações,Campinas,0010134,3525.42,CLT,2024-09-01
+0010499,Gabriela Pereira Ribeiro,173.865.286-63,2000-04-19,Feminino,2018-11-11,,,Atendente Júnior,Customer Success,Curitiba,0010403,2443.84,CLT,2024-09-01
+0010718,Igor Fernandes Oliveira,167.424.075-90,1973-11-12,Masculino,2023-03-14,,,Operador de Logística Sênior,Operações,Recife,0010183,5858.48,CLT,2024-09-01
+0010798,Nicolas Ferreira Oliveira,609.853.876-02,1988-06-17,Masculino,2023-07-15,,,Atendente Pleno,Customer Success,Recife,0011061,2887.87,CLT,2024-12-13
+0010628,Eduardo Souza Rocha,214.622.749-43,1978-06-05,Masculino,2017-01-20,,,Analista Financeiro Pleno,Financeiro,Recife,0010612,7796.34,CLT,2024-09-01
+0010288,Gabriela Castro Vieira,757.338.662-17,1995-02-08,Feminino,2020-01-15,,,Operador de Logística Sênior,Operações,Recife,0010144,5783.3,CLT,2024-09-01
+0011078,Júlia Fernandes Cardoso,072.023.551-08,1980-08-09,Feminino,2024-10-11,,,Atendente Júnior,Customer Success,Curitiba,0010374,2229.44,CLT,2024-10-11
+0011003,Ana Souza Carvalho,012.230.368-71,1995-07-05,Feminino,2024-06-03,,,Operador de Logística Júnior,Operações,Recife,0010791,2824.68,CLT,2024-09-01
+0010197,Bruno Fernandes Vieira,274.431.840-00,1980-12-20,Masculino,2015-01-27,,,Operador de Logística Júnior,Operações,Recife,0010143,2821.14,Temporário,2024-09-01
+0011035,Igor Rocha Lima,979.816.078-92,2000-03-02,Masculino,2024-08-27,,,Operador de Logística Júnior,Operações,São Paulo,0010303,2495.3,CLT,2024-09-01
+0011081,Sofia Gomes Vieira,675.198.841-98,2006-04-09,Feminino,2024-10-03,,,Atendente Sênior,Customer Success,Campinas,0010522,4091.79,CLT,2024-10-03
+0010354,Larissa Carvalho Pereira,528.221.637-07,1988-08-12,Feminino,2021-08-19,,,Operador de Logística Júnior,Operações,Recife,0010791,2674.19,CLT,2025-01-17
+0010620,Marcelo Rocha Costa,878.621.882-41,1997-06-19,Masculino,2021-05-10,,,Analista Financeiro Pleno,Financeiro,Curitiba,0010612,6621.73,CLT,2024-11-27
+0011019,André Santos Silva,522.456.066-71,1994-04-19,Masculino,2024-07-22,,,Atendente Júnior,Customer Success,Recife,0010403,2408.78,CLT,2024-09-01
+0010913,Ana Rocha Lima,565.381.336-22,1970-04-03,Feminino,2024-01-20,,,Analista Financeiro Júnior,Financeiro,Campinas,0010613,5311.24,CLT,2024-09-01
+0010624,João Rocha Rocha,684.583.819-40,1984-05-13,Masculino,2015-12-14,,,Analista Financeiro Sênior,Financeiro,Curitiba,0010612,8971.08,CLT,2024-09-01
+0010952,Rafael Pereira Ferreira,390.659.944-24,2003-03-09,Masculino,2024-03-26,,,Atendente Pleno,Customer Success,São Paulo,0010371,3190.22,CLT,2024-09-01
+0010040,Renata Oliveira Oliveira,450.960.941-89,1979-08-22,Feminino,2020-12-20,,,Engenheiro de Software Sênior,Tecnologia,Recife,0010058,14192.03,CLT,2024-09-01
+0011111,Fernanda Teixeira Castro,073.046.892-50,2000-03-23,Feminino,2024-12-23,,,Operador de Logística Júnior,Operações,Recife,0010303,2468.75,CLT,2024-12-23
+0010937,Caio Teixeira Dias,441.423.112-47,1991-01-06,Masculino,2024-02-09,,,Consultor Comercial Sênior,Comercial,São Paulo,0010567,8405.39,CLT,2024-09-01
+0011096,Otávio Dias Gomes,963.592.592-14,1989-10-02,Masculino,2024-11-13,,,Operador de Logística Júnior,Operações,Campinas,0010134,2389.84,CLT,2024-11-13
+0010430,Vitória Lima Teixeira,419.607.185-68,1993-11-06,Feminino,2022-12-16,,,Atendente Júnior,Customer Success,Curitiba,0010454,2396.81,CLT,2024-10-14
+0010717,Larissa Barbosa Silva,051.776.164-52,1972-06-21,Feminino,2023-03-14,,,Operador de Logística Sênior,Operações,Campinas,0010846,4364.88,CLT,2025-01-08
+0010687,Lucas Dias Vieira,399.585.403-63,1994-07-11,Masculino,2023-01-01,,,Consultor Comercial Pleno,Comercial,Recife,0010535,6421.45,CLT,2024-09-01
+0010584,Gustavo Melo Souza,274.980.270-97,1987-02-28,Masculino,2016-07-11,,,Consultor Comercial Pleno,Comercial,Campinas,0010539,6535.01,CLT,2024-09-01
+0010728,Eduardo Almeida Souza,130.726.436-01,1984-10-26,Masculino,2023-03-22,,,Atendente Pleno,Customer Success,Campinas,0010374,3436.84,CLT,2024-09-01
+0010637,Thiago Cardoso Moreira,127.368.842-21,1990-06-28,Masculino,2017-07-20,,,Analista Financeiro Pleno,Financeiro,Curitiba,0010613,7937.24,CLT,2024-09-01
+0010883,Gustavo Almeida Martins,951.837.030-35,1977-07-07,Masculino,2023-12-22,,,Engenheiro de Software Júnior,Tecnologia,Campinas,0010009,7985.68,CLT,2024-09-01
+0011095,Helena Cardoso Gomes,658.886.555-46,2001-11-13,Feminino,2024-11-06,,,Operador de Logística Júnior,Operações,Curitiba,0010721,2625.5,CLT,2024-11-06
+0011069,Eduardo Barbosa Ribeiro,875.160.904-50,1991-01-17,Masculino,2024-10-02,,,Operador de Logística Júnior,Operações,Curitiba,0010986,2751.39,CLT,2024-12-13
+0010749,Nicolas Melo Ribeiro,351.370.989-73,1977-10-02,Masculino,2023-04-23,,,Consultor Comercial Júnior,Comercial,Recife,0010567,4660.31,CLT,2024-09-01
+0010343,Camila Melo Melo,066.920.330-04,1994-05-27,Feminino,2020-09-09,,,Operador de Logística Júnior,Operações,Recife,0010145,2769.82,CLT,2024-09-01
+0011091,Eduardo Gomes Carvalho,223.075.898-56,1993-07-25,Masculino,2024-10-16,,,Analista de RH Júnior,Pessoas,Campinas,0010653,4840.09,CLT,2024-10-16
+0010800,Ana Almeida Castro,821.803.029-83,1992-04-06,Feminino,2023-07-27,,,Atendente Júnior,Customer Success,São Paulo,0010705,2495.66,CLT,2024-09-01
+0010031,Vitória Lima Santos,814.972.871-62,1983-01-05,Feminino,2015-07-16,,,Engenheiro de Software Júnior,Tecnologia,Recife,0010058,7058.86,CLT,2024-09-01
+0010968,Ana Souza Melo,321.030.437-82,2001-01-24,Feminino,2024-04-10,,,Operador de Logística Sênior,Operações,Campinas,0010721,5012.77,CLT,2024-09-01
+0010021,Camila Fernandes Oliveira,362.670.460-28,1996-08-20,Feminino,2016-10-24,,,Engenheiro de Software Pleno,Tecnologia,São Paulo,0010048,8263.4,CLT,2024-09-01
+0010091,Otávio Fernandes Santos,688.119.426-91,1984-11-02,Masculino,2015-01-26,,,Engenheiro de Software Sênior,Tecnologia,Campinas,0010010,15565.1,CLT,2024-09-01
+0010759,Igor Gomes Ribeiro,810.065.628-26,1990-03-10,Masculino,2023-05-22,,,Atendente Júnior,Customer Success,Campinas,0010380,2581.38,CLT,2024-09-01
+0010459,Felipe Carvalho Castro,480.269.648-53,1995-11-08,Masculino,2015-01-02,,,Atendente Júnior,Customer Success,Campinas,0010993,2622.53,CLT,2024-12-15
+0010949,Larissa Barbosa Ferreira,143.237.135-50,2000-01-28,Feminino,2024-03-05,,,Atendente Júnior,Customer Success,São Paulo,0010454,2717.18,CLT,2024-10-14
+0011034,Nicolas Castro Carvalho,660.304.919-89,1988-12-28,Masculino,2024-08-07,,,Operador de Logística Pleno,Operações,Curitiba,0010286,3755.15,Temporário,2024-09-01
+0010904,Fernanda Teixeira Dias,179.161.061-75,1987-02-09,Feminino,2024-01-25,,,Operador de Logística Pleno,Operações,São Paulo,0010144,3490.55,CLT,2024-09-01
+0010320,Eduardo Vieira Carvalho,137.991.687-96,1983-06-04,Masculino,2019-07-20,,,Operador de Logística Júnior,Operações,Campinas,0010140,2744.18,CLT,2024-09-01
+0010300,Eduardo Cardoso Silva,236.279.580-20,1986-09-25,Masculino,2020-05-17,,,Operador de Logística Júnior,Operações,Campinas,0010791,3092.13,CLT,2024-09-01
+0010081,Mariana Gomes Barbosa,901.166.212-14,2001-02-12,Feminino,2020-11-09,,,Engenheiro de Software Júnior,Tecnologia,Recife,0010009,8013.88,CLT,2024-09-01
+0010087,Caio Fernandes Araújo,484.046.913-04,1997-06-12,Masculino,2021-12-20,,,Engenheiro de Software Sênior,Tecnologia,Campinas,0010006,13404.0,CLT,2024-09-01
+0010618,Caio Moreira Almeida,099.116.017-73,1999-03-24,Masculino,2020-05-17,,,Analista Financeiro Sênior,Financeiro,Campinas,0010612,10268.74,CLT,2024-09-01
+0010638,Gabriela Rocha Oliveira,224.212.964-39,1999-12-04,Feminino,2022-12-21,,,Analista Financeiro Pleno,Financeiro,São Paulo,0010612,8135.39,CLT,2024-09-01
+0010126,Gustavo Souza Oliveira,932.380.164-07,1993-06-04,Masculino,2020-08-11,,,Gerente de Operações,Operações,Recife,0010124,10529.36,CLT,2024-09-01
+0010183,Eduarda Martins Araújo,032.850.272-31,1995-09-04,Feminino,2021-06-10,,,Coordenador de Operações,Operações,Campinas,0010125,6999.47,CLT,2024-09-01
+0010107,Natália Barbosa Oliveira,304.978.231-52,1984-02-19,Feminino,2021-08-14,2025-01-18,Pedido de demissão,Engenheiro de Software Pleno,Tecnologia,Recife,0010008,8168.27,CLT,2024-09-01
+0010033,Vitória Martins Martins,586.491.168-25,1976-04-22,Feminino,2016-12-14,,,Engenheiro de Software Júnior,Tecnologia,Curitiba,0010006,7472.09,CLT,2024-09-01
+0010028,Marcelo Souza Martins,361.187.573-21,1989-09-05,Masculino,2022-10-23,,,Engenheiro de Software Pleno,Tecnologia,Campinas,0010010,11180.73,CLT,2024-09-01
+0011119,Caio Castro Pereira,412.807.917-05,2000-09-14,Masculino,2024-12-03,,,Analista Financeiro Júnior,Financeiro,São Paulo,0010613,5380.75,CLT,2024-12-03
+0010999,Natália Cardoso Lima,893.196.927-93,1991-07-25,Feminino,2024-06-06,,,Operador de Logística Sênior,Operações,Curitiba,0010143,5424.79,CLT,2024-09-01
+0010812,Larissa Araújo Carvalho,747.226.389-34,2005-05-19,Feminino,2023-08-07,,,Operador de Logística Pleno,Operações,Recife,0010140,3772.31,CLT,2024-09-01
+0010934,Camila Santos Moreira,071.062.692-47,1991-01-09,Feminino,2024-02-26,,,Atendente Júnior,Customer Success,São Paulo,0010522,2489.94,CLT,2024-09-01
+0010643,Marcelo Castro Lima,060.316.762-49,1979-02-16,Masculino,2015-05-27,,,Analista Financeiro Sênior,Financeiro,Recife,0010613,11056.36,CLT,2024-09-01
+0010007,Beatriz Rocha Rocha,920.603.480-48,1976-08-24,Feminino,2018-01-11,,,Coordenador de Tecnologia,Tecnologia,Curitiba,0010003,19028.45,CLT,2024-09-01
+0011133,Otávio Costa Cardoso,304.554.281-66,1991-03-21,Masculino,2025-01-17,,,Atendente Júnior,Customer Success,Campinas,0011061,2110.76,CLT,2025-01-17
+0010721,Marcelo Dias Souza,741.038.363-18,2000-10-21,Masculino,2023-03-14,,,Coordenador de Operações,Operações,São Paulo,0010125,5364.12,CLT,2024-11-17
+0011113,Lucas Ferreira Ribeiro,465.887.043-64,1984-03-08,Masculino,2024-12-01,,,Atendente Pleno,Customer Success,Campinas,0010371,3485.18,CLT,2024-12-01
+0011006,Júlia Cardoso Carvalho,013.406.037-72,1995-06-02,Feminino,2024-06-10,,,Atendente Pleno,Customer Success,São Paulo,0010522,2847.96,CLT,2024-09-01
+0010348,Otávio Moreira Ferreira,479.111.974-66,1973-05-02,Masculino,2017-08-09,,,Operador de Logística Pleno,Operações,Campinas,0010986,2991.8,CLT,2024-12-02
+0010564,Eduarda Ferreira Almeida,262.576.005-29,1984-03-05,Feminino,2022-01-01,,,Consultor Comercial Pleno,Comercial,Curitiba,0010539,5852.15,CLT,2024-09-01
+0010159,Thiago Costa Martins,231.250.943-13,1984-01-10,Masculino,2016-04-02,,,Operador de Logística Júnior,Operações,Recife,0010303,2988.07,CLT,2024-09-01
+0011030,Renata Costa Cardoso,848.335.533-76,1994-02-25,Feminino,2024-08-19,,,Engenheiro de Software Pleno,Tecnologia,Curitiba,0010048,9488.71,CLT,2024-09-01
+0011025,Nicolas Costa Fernandes,059.983.720-93,1984-08-20,Masculino,2024-07-08,,,Consultor Comercial Júnior,Comercial,Campinas,0010571,4464.63,CLT,2024-09-01
+0011015,Patrícia Fernandes Moreira,565.313.163-65,1996-02-21,Feminino,2024-07-04,,,Operador de Logística Júnior,Operações,Campinas,0010741,2522.62,Temporário,2024-09-01
+0010121,Pedro Oliveira Martins,564.333.343-00,1988-07-01,Masculino,2022-01-02,,,Engenheiro de Software Júnior,Tecnologia,São Paulo,0010058,8696.1,CLT,2024-09-01
+0010365,Larissa Moreira Teixeira,126.333.196-37,1980-01-23,Feminino,2016-07-20,,,Operador de Logística Pleno,Operações,Curitiba,0010846,3578.85,Temporário,2025-01-08
+0010577,Igor Melo Souza,071.592.387-02,1994-07-14,Masculino,2016-11-25,,,Consultor Comercial Sênior,Comercial,Recife,0010567,7099.02,CLT,2024-09-01
+0010942,Pedro Dias Fernandes,596.965.125-70,1984-01-18,Masculino,2024-03-24,,,Operador de Logística Júnior,Operações,Curitiba,0010140,2608.84,Temporário,2024-09-01
+0010470,Daniela Vieira Oliveira,738.245.705-21,1991-07-24,Feminino,2020-09-16,,,Atendente Júnior,Customer Success,Curitiba,0010374,2543.01,CLT,2024-09-01
+0010831,Vinícius Teixeira Almeida,916.536.178-45,1993-09-01,Masculino,2023-09-07,,,Engenheiro de Software Sênior,Tecnologia,Campinas,0010011,13348.05,CLT,2024-09-01
+0010034,Rafael Silva Martins,971.831.213-72,1985-02-27,Masculino,2017-09-17,,,Engenheiro de Software Júnior,Tecnologia,São Paulo,0010007,7598.43,CLT,2024-09-01
+0010573,Daniel Fernandes Santos,494.525.928-34,1996-05-25,Masculino,2020-06-25,,,Consultor Comercial Pleno,Comercial,Campinas,0010538,5015.29,CLT,2024-11-13
+0010885,André Costa Barbosa,373.940.416-70,1997-12-15,Masculino,2023-12-19,,,Engenheiro de Software Júnior,Tecnologia,São Paulo,0010058,7181.7,CLT,2024-09-01
+0011105,Mariana Pereira Lima,782.858.359-10,2006-04-25,Feminino,2024-11-03,,,Atendente Júnior,Customer Success,Campinas,0010993,2383.15,CLT,2024-12-15
+0010158,Gabriela Almeida Vieira,715.368.591-09,1985-11-27,Feminino,2017-11-17,,,Operador de Logística Júnior,Operações,Curitiba,0010140,2897.82,Temporário,2024-09-01
+0010201,Sofia Castro Almeida,406.371.682-16,1981-01-18,Feminino,2015-06-03,,,Operador de Logística Pleno,Operações,Recife,0010183,3407.84,CLT,2024-09-01
+0010609,Marcelo Fernandes Dias,226.162.437-92,1995-05-03,Masculino,2016-10-16,,,Consultor Comercial Júnior,Comercial,São Paulo,0010539,4907.31,CLT,2024-09-01
+0011130,Ana Ferreira Fernandes,678.311.501-10,1982-10-18,Feminino,2025-01-16,,,Operador de Logística Júnior,Operações,Campinas,0010313,2542.92,CLT,2025-01-16
+0010617,Camila Souza Araújo,202.326.876-17,1982-09-21,Feminino,2017-10-23,,,Analista Financeiro Júnior,Financeiro,Curitiba,0010613,5889.54,CLT,2024-09-01
+0010440,Daniel Lima Oliveira,585.409.485-16,1980-01-08,Masculino,2020-06-14,,,Atendente Júnior,Customer Success,Curitiba,0010380,2593.48,CLT,2024-09-01
+0010977,Ana Dias Lima,090.471.038-66,1995-01-27,Feminino,2024-04-22,,,Consultor Comercial Sênior,Comercial,São Paulo,0010571,7354.04,CLT,2024-09-01
+0010284,Bruno Cardoso Gomes,090.648.643-22,1990-01-27,Masculino,2016-04-16,,,Operador de Logística Júnior,Operações,Recife,0010140,302.97,CLT,2024-09-01
+0010049,Mariana Moreira Vieira,649.737.811-18,1994-02-23,Feminino,2022-11-09,,,Engenheiro de Software Pleno,Tecnologia,Recife,0010058,10195.43,CLT,2024-09-01
+0010744,Eduarda Melo Araújo,798.324.188-79,1977-01-24,Feminino,2023-04-14,,,Atendente Sênior,Customer Success,Campinas,0010743,4954.6,CLT,2024-09-01
+0010394,Gabriela Carvalho Silva,036.994.967-67,1992-12-10,Feminino,2016-08-20,,,Atendente Sênior,Customer Success,São Paulo,0010454,4081.67,CLT,2024-10-14
+0010425,Tatiana Santos Almeida,722.296.638-28,1981-09-07,Feminino,2017-06-11,,,Atendente Pleno,Customer Success,São Paulo,0010389,2767.2,CLT,2024-09-01
+0010996,Sofia Pereira Costa,470.749.048-48,1992-10-08,Feminino,2024-06-24,,,Operador de Logística Sênior,Operações,Curitiba,0010791,5558.45,CLT,2024-09-01
+0010135,Helena Oliveira Oliveira,416.249.576-92,1977-11-07,Feminino,2021-06-14,,,Coordenador de Operações,Operações,Curitiba,0010127,6852.71,CLT,2024-09-01
+0010612,Rafael Vieira Castro,768.510.998-02,1985-02-26,Masculino,2017-04-23,,,Coordenador de Financeiro,Financeiro,Recife,0010611,13194.42,CLT,2024-09-01
+0010889,Júlia Almeida Fernandes,935.321.456-42,1980-03-22,Feminino,2023-12-10,,,Operador de Logística Júnior,Operações,Campinas,0010183,2776.05,CLT,2024-09-01
+0010301,Lucas Melo Fernandes,333.793.283-59,1984-11-10,Masculino,2015-09-08,,,Operador de Logística Júnior,Operações,São Paulo,0010139,3047.97,CLT,2024-09-01
+0010845,Camila Moreira Araújo,418.455.554-30,1978-08-28,Feminino,2023-10-20,,,Operador de Logística Júnior,Operações,Campinas,0010846,3107.97,CLT,2025-01-08
+0010818,Daniel Santos Souza,766.174.631-02,2001-05-21,Masculino,2023-08-15,,,Atendente Sênior,Customer Success,Curitiba,0010371,5021.77,CLT,2024-09-01
+0010196,Camila Santos Gomes,101.317.308-27,1970-06-23,Feminino,2017-11-16,,,Operador de Logística Pleno,Operações,Recife,0010286,3303.26,CLT,2024-09-01
+0010304,Ana Melo Pereira,959.135.824-54,1987-03-24,Feminino,2016-10-21,,,Operador de Logística Sênior,Operações,São Paulo,0010286,4250.11,CLT,2024-09-01
+0010852,Rafael Teixeira Oliveira,730.101.734-07,1978-02-14,Masculino,2023-10-12,,,Operador de Logística Sênior,Operações,Campinas,0010145,4629.99,CLT,2024-12-21
+0011101,Daniela Fernandes Vieira,488.137.170-32,1986-04-05,Feminino,2024-11-26,,,Atendente Pleno,Customer Success,Curitiba,0010371,3165.14,CLT,2024-11-26
+0010099,Henrique Gomes Costa,409.430.157-74,2002-03-19,Masculino,2022-02-01,,,Engenheiro de Software Pleno,Tecnologia,Campinas,0010009,10803.68,CLT,2024-09-01
+0011085,André Fernandes Ribeiro,846.482.170-04,1995-05-25,Masculino,2024-10-20,,,Consultor Comercial Pleno,Comercial,São Paulo,0010535,5739.89,CLT,2024-10-20
+0010828,Nicolas Ferreira Carvalho,214.454.488-31,1981-09-27,Masculino,2023-08-13,,,Consultor Comercial Sênior,Comercial,Curitiba,0010535,8648.13,CLT,2024-09-01
+0011059,Renata Dias Souza,825.367.659-03,1996-01-04,Feminino,2024-09-22,,,Operador de Logística Pleno,Operações,Campinas,0010183,3148.35,CLT,2024-09-22
+0011031,Lucas Souza Araújo,730.853.626-22,2001-06-03,Masculino,2024-08-21,,,Engenheiro de Software Sênior,Tecnologia,Curitiba,0010008,13762.23,CLT,2024-09-01
+0010003,Bruno Pereira Costa,401.594.898-06,1987-08-08,Masculino,2022-11-05,,,Gerente de Tecnologia,Tecnologia,São Paulo,0010002,28926.32,CLT,2024-09-01
+0010940,Helena Santos Barbosa,593.207.968-15,1999-09-07,Feminino,2024-03-18,,,Engenheiro de Software Pleno,Tecnologia,Curitiba,0010008,9786.46,CLT,2024-09-01
+0010125,Sofia Fernandes Souza,080.926.287-85,1990-12-27,Feminino,2017-05-21,,,Gerente de Operações,Operações,São Paulo,0010124,10575.13,CLT,2024-09-01
+0010061,Gabriela Costa Almeida,744.237.896-04,1990-04-16,Feminino,2015-08-08,,,Engenheiro de Software Pleno,Tecnologia,Recife,0010007,8416.9,CLT,2024-12-03
+0010707,Daniel Vieira Almeida,231.442.635-59,1985-02-16,Masculino,2023-02-04,,,Consultor Comercial Pleno,Comercial,São Paulo,0010539,6452.64,CLT,2024-09-01
+0011054,Rafael Rocha Martins,023.240.303-14,1991-05-10,Masculino,2024-09-19,,,Operador de Logística Pleno,Operações,Curitiba,0010721,4154.34,CLT,2024-09-19
+0010335,Larissa Almeida Martins,014.673.667-22,1991-04-01,Feminino,2019-01-18,,,Operador de Logística Sênior,Operações,Curitiba,0010721,5311.58,CLT,2024-09-01
+0010892,Daniel Dias Castro,057.804.269-02,1986-09-20,Masculino,2023-12-09,,,Operador de Logística Pleno,Operações,Recife,0010986,3581.4,CLT,2024-12-02
+0010656,Thiago Barbosa Lima,041.075.459-54,1979-06-26,Masculino,2016-08-16,,,Analista de RH Júnior,Pessoas,Recife,0010653,5245.11,CLT,2024-09-01
+0011018,Beatriz Moreira Ribeiro,015.584.139-44,1990-05-27,Feminino,2024-07-01,,,Operador de Logística Júnior,Operações,São Paulo,0010143,2553.84,CLT,2024-09-01
+0010170,Patrícia Teixeira Cardoso,749.548.922-79,1980-07-19,Feminino,2019-03-21,,,Operador de Logística Pleno,Operações,São Paulo,0010134,3947.73,CLT,2024-09-01
+0010184,Eduarda Melo Araújo,220.451.661-98,1997-02-06,Feminino,2015-02-19,,,Operador de Logística Pleno,Operações,São Paulo,0010148,3289.2,CLT,2024-09-01
+0011086,Otávio Araújo Melo,182.259.394-84,1993-11-07,Masculino,2024-10-15,,,Consultor Comercial Júnior,Comercial,Recife,0010538,4211.03,CLT,2024-10-15
+0011007,Sofia Moreira Oliveira,335.456.155-61,1984-10-15,Feminino,2024-06-05,,,Atendente Pleno,Customer Success,Recife,0010705,3379.52,CLT,2024-09-01
+0010983,Eduardo Santos Martins,121.972.585-40,1978-02-19,Masculino,2024-05-26,,,Operador de Logística Pleno,Operações,Campinas,0010139,4316.03,CLT,2024-09-01
+0010020,Mariana Santos Oliveira,113.617.336-67,1983-11-09,Feminino,2022-01-02,,,Engenheiro de Software Sênior,Tecnologia,Curitiba,0010011,9571.49,CLT,2024-09-01
+0010014,Patrícia Gomes Moreira,002.415.597-74,1992-04-20,Feminino,2019-12-24,,,Engenheiro de Software Sênior,Tecnologia,Curitiba,0010005,11636.86,CLT,2024-09-07
+0010738,João Ribeiro Gomes,758.840.295-43,1987-07-27,Masculino,2023-04-23,,,Operador de Logística Sênior,Operações,Curitiba,0010148,5461.52,CLT,2024-09-01
+0010043,Thiago Lima Carvalho,380.794.778-76,1989-01-25,Masculino,2021-01-10,,,Engenheiro de Software Sênior,Tecnologia,São Paulo,0010007,14337.38,CLT,2024-09-01
+0011029,Júlia Barbosa Silva,835.230.168-35,1996-05-23,Feminino,2024-08-11,,,Engenheiro de Software Júnior,Tecnologia,Curitiba,0010011,7235.88,CLT,2024-09-01
+0010479,Eduardo Souza Rocha,314.931.352-01,1998-12-11,Masculino,2018-09-09,,,Atendente Sênior,Customer Success,Curitiba,0010371,4500.05,CLT,2024-09-01
+0011100,Sofia Ribeiro Martins,709.017.985-09,1991-10-05,Feminino,2024-11-01,,,Atendente Pleno,Customer Success,Campinas,0010389,3083.51,CLT,2024-11-01
+0010264,Bruno Ferreira Pereira,358.035.722-09,1977-05-03,Masculino,2016-11-19,,,Operador de Logística Júnior,Operações,Recife,0010791,2623.51,CLT,2024-09-01
+0010047,Sofia Lima Vieira,578.750.175-64,1977-10-07,Feminino,2018-08-15,,,Engenheiro de Software Pleno,Tecnologia,São Paulo,0010011,8158.9,CLT,2024-09-01
+0010009,Júlia Melo Carvalho,085.475.434-22,1981-10-21,Feminino,2019-12-12,,,Coordenador de Tecnologia,Tecnologia,São Paulo,0010003,18641.14,CLT,2024-09-01
+0010933,Gustavo Lima Ferreira,199.408.543-66,1993-02-10,Masculino,2024-02-21,,,Atendente Pleno,Customer Success,Recife,0010743,3286.45,CLT,2024-09-01
+0010610,Beatriz Cardoso Rocha,254.322.054-24,1980-01-16,Feminino,2017-03-05,,,Diretor de Financeiro,Financeiro,Curitiba,0010001,30641.25,CLT,2017-03-05
+0010283,Pedro Castro Dias,669.786.965-87,1987-01-19,Masculino,2017-03-19,,,Operador de Logística Pleno,Operações,São Paulo,0010139,3960.12,CLT,2024-09-01
+0010802,Daniela Ribeiro Vieira,062.061.465-02,1986-08-16,Feminino,2023-07-24,,,Atendente Pleno,Customer Success,Curitiba,0010743,3694.61,CLT,2024-09-01
+0010810,Larissa Martins Oliveira,719.327.733-20,1988-04-26,Feminino,2023-08-10,,,Operador de Logística Júnior,Operações,Recife,0010986,2631.02,CLT,2024-12-02
+0010308,Sofia Cardoso Oliveira,895.103.102-04,1987-05-21,Feminino,2018-07-17,,,Operador de Logística Júnior,Operações,Campinas,0011053,2925.41,CLT,2024-12-26
+0010252,Eduardo Almeida Barbosa,220.661.728-55,1994-08-06,Masculino,2021-12-22,2025-01-05,Pedido de demissão,Operador de Logística Pleno,Operações,São Paulo,0010144,3977.98,CLT,2024-09-01
+0010921,Lucas Almeida Moreira,073.349.858-26,2002-07-06,Masculino,2024-02-01,,,Operador de Logística Júnior,Operações,Curitiba,0010143,2881.18,CLT,2024-09-01
+0010503,Fernanda Ribeiro Barbosa,193.969.607-05,1992-08-05,Feminino,2018-08-24,,,Atendente Pleno,Customer Success,Recife,0010371,3655.94,CLT,2024-09-01
+0011126,Eduardo Melo Castro,327.715.573-04,1983-10-24,Masculino,2025-01-14,,,Operador de Logística Júnior,Operações,Curitiba,0010986,2617.7,CLT,2025-01-14
+0010011,Daniel Rocha Rocha,493.057.786-15,1980-02-24,Masculino,2017-07-21,,,Coordenador de Tecnologia,Tecnologia,Campinas,0010003,20075.83,CLT,2024-09-01
+0010957,Daniel Moreira Barbosa,096.812.707-03,1999-05-21,Masculino,2024-03-08,,,Consultor Comercial Pleno,Comercial,Recife,0010567,6482.33,CLT,2024-09-01
+0010174,Henrique Ribeiro Dias,435.728.143-16,1989-11-20,Masculino,2022-08-07,,,Operador de Logística Júnior,Operações,São Paulo,0010791,2763.35,CLT,2024-09-01
+0010629,Patrícia Lima Pereira,018.765.828-55,1991-10-10,Feminino,2019-01-17,,,Analista Financeiro Pleno,Financeiro,Campinas,0010613,8004.32,CLT,2024-09-01
+0010867,Eduardo Melo Araújo,944.307.988-77,1990-10-10,Masculino,2023-11-24,,,Operador de Logística Pleno,Operações,Campinas,0010134,4059.2,CLT,2024-09-01
+0010493,Vitória Carvalho Moreira,925.225.890-67,1980-05-07,Feminino,2017-01-20,,,Atendente Pleno,Customer Success,São Paulo,0010373,2676.42,CLT,2024-09-01
+0010227,Bruno Ferreira Vieira,517.847.777-49,1988-12-27,Masculino,2018-01-17,,,Operador de Logística Júnior,Operações,Recife,0010721,2942.48,CLT,2024-09-01
+0010562,Gustavo Carvalho Cardoso,663.863.109-85,1965-05-04,Masculino,2015-09-03,,,Consultor Comercial Sênior,Comercial,São Paulo,0010567,6833.13,CLT,2024-09-01
+0010574,Bruno Martins Araújo,561.045.631-20,1977-09-06,Masculino,2015-05-10,,,Consultor Comercial Pleno,Comercial,Campinas,0010539,5869.88,CLT,2024-09-01
+0010246,André Santos Oliveira,202.664.345-84,1978-10-11,Masculino,2015-05-17,,,Operador de Logística Júnior,Operações,Curitiba,0010791,2874.13,CLT,2024-09-01
+0010143,Caio Lima Melo,677.821.516-00,1998-05-16,Masculino,2021-12-08,,,Coordenador de Operações,Operações,Recife,0010127,6505.51,CLT,2024-09-01
+0011049,Felipe Castro Carvalho,169.482.096-37,1981-12-08,Masculino,2024-09-10,,,Engenheiro de Software Pleno,Tecnologia,Campinas,0010058,10021.23,CLT,2024-09-10
+0010807,Mariana Teixeira Castro,243.996.190-66,1980-01-25,Feminino,2023-08-14,,,Engenheiro de Software Sênior,Tecnologia,Recife,0010048,14588.94,CLT,2024-09-01
+0010112,Sofia Carvalho Ferreira,837.109.312-82,2000-01-01,Feminino,2019-11-26,,,Engenheiro de Software Pleno,Tecnologia,Campinas,0010058,10910.38,CLT,2024-09-01
+0010675,Daniela Costa Dias,394.441.291-52,2005-07-05,Feminino,2023-01-15,,,Operador de Logística Sênior,Operações,São Paulo,0010313,5080.5,CLT,2024-09-01
+0010632,Isabela Silva Cardoso,527.119.464-79,1982-05-10,Feminino,2018-11-06,,,Analista Financeiro Júnior,Financeiro,Campinas,0010612,5814.31,CLT,2024-09-01
+0010334,Patrícia Pereira Souza,021.325.596-00,1995-02-16,Feminino,2016-11-11,,,Operador de Logística Sênior,Operações,Recife,0010741,4608.07,CLT,2024-09-01
+0010636,Eduarda Pereira Ribeiro,454.031.766-08,1992-07-01,Feminino,2016-12-25,,,Analista Financeiro Sênior,Financeiro,São Paulo,0010612,11383.13,CLT,2024-09-01
+0011073,Larissa Vieira Ribeiro,671.481.949-89,1979-03-07,Feminino,2024-10-09,,,Operador de Logística Sênior,Operações,Curitiba,0010143,4894.35,CLT,2024-10-09
+0010206,Otávio Cardoso Barbosa,023.084.719-64,1991-01-25,Masculino,2016-07-18,,,Operador de Logística Júnior,Operações,Recife,0010134,2888.54,CLT,2024-09-01
+0010572,Nicolas Lima Silva,246.186.629-56,1978-04-28,Masculino,2016-06-12,,,Consultor Comercial Sênior,Comercial,São Paulo,0010567,5254.06,CLT,2024-11-07
+0010939,Daniela Barbosa Barbosa,694.548.968-06,1998-02-16,Feminino,2024-02-11,,,Consultor Comercial Júnior,Comercial,Campinas,0010567,4134.46,CLT,2024-09-01
+0010058,Eduarda Santos Santos,185.012.778-60,1983-08-17,Feminino,2021-11-14,,,Coordenador de Tecnologia,Tecnologia,Curitiba,0010003,18313.73,CLT,2024-09-01
+0010018,Fernanda Gomes Carvalho,919.520.351-63,1973-02-03,Feminino,2015-06-01,,,Engenheiro de Software Pleno,Tecnologia,Curitiba,0010009,11002.11,CLT,2024-09-01
+0010176,Patrícia Barbosa Fernandes,342.251.737-55,1983-01-24,Feminino,2021-06-10,,,Operador de Logística Júnior,Operações,Campinas,0010140,2610.0,CLT,2024-09-01
+0010887,Rafael Cardoso Araújo,658.903.572-55,1980-03-10,Masculino,2023-12-24,2025-01-01,Fim de contrato,Operador de Logística Júnior,Operações,Curitiba,0010986,2595.32,Temporário,2024-12-02
+0010215,Rafael Dias Moreira,320.262.450-45,1994-02-09,Masculino,2017-01-13,,,Operador de Logística Júnior,Operações,Recife,0010143,2816.53,CLT,2024-09-01
+0010993,Gustavo Rocha Vieira,542.770.984-36,1984-09-09,Masculino,2024-05-23,,,Coordenador de Atendimento,Customer Success,São Paulo,0010369,5758.1,CLT,2024-12-15
+0010969,Beatriz Vieira Castro,658.596.927-81,1978-09-26,Feminino,2024-04-21,,,Atendente Sênior,Customer Success,Campinas,0010380,4482.49,CLT,2024-09-01
+0010097,Pedro Cardoso Souza,895.774.848-24,1983-10-24,Masculino,2015-03-21,,,Engenheiro de Software Júnior,Tecnologia,Curitiba,0010007,7611.7,CLT,2024-09-01
+0010967,Nicolas Martins Ferreira,135.324.765-17,1989-10-05,Masculino,2024-04-07,,,Operador de Logística Pleno,Operações,São Paulo,0010135,4397.43,CLT,2024-09-01
+0010026,Sofia Barbosa Castro,075.886.337-35,1978-01-27,Feminino,2022-04-20,,,Engenheiro de Software Júnior,Tecnologia,Curitiba,0010008,7131.26,CLT,2024-09-01
+0010016,João Pereira Oliveira,331.974.264-79,1984-08-21,Masculino,2015-11-13,,,Engenheiro de Software Júnior,Tecnologia,Recife,0010007,8005.47,CLT,2024-09-01
+0010642,Camila Santos Costa,297.444.058-48,1984-01-05,Feminino,2016-11-19,,,Analista Financeiro Sênior,Financeiro,São Paulo,0010612,9952.39,CLT,2024-09-01
+0011088,Felipe Oliveira Cardoso,198.819.890-94,2001-02-21,Masculino,2024-10-18,,,Consultor Comercial Júnior,Comercial,Recife,0010538,4281.33,CLT,2024-10-18
+0011010,Igor Almeida Lima,713.294.956-08,2001-06-05,Masculino,2024-06-06,,,Atendente Júnior,Customer Success,Curitiba,0010389,2433.13,CLT,2024-09-01
+0010078,Eduarda Moreira Dias,721.952.460-90,1988-12-23,Feminino,2020-07-27,,,Engenheiro de Software Júnior,Tecnologia,São Paulo,0010006,7522.94,CLT,2024-09-01
+0010848,Gustavo Lima Martins,509.843.061-53,1986-07-09,Masculino,2023-10-19,,,Operador de Logística Júnior,Operações,São Paulo,0010313,2780.48,CLT,2024-09-01
+0010988,Patrícia Carvalho Santos,171.377.798-32,1979-02-12,Feminino,2024-05-16,,,Operador de Logística Sênior,Operações,Campinas,0010139,5291.22,CLT,2024-12-03
+0011070,Eduarda Souza Fernandes,443.264.829-58,1999-12-13,Feminino,2024-10-05,,,Operador de Logística Sênior,Operações,São Paulo,0010741,4527.89,CLT,2024-10-05
+0010079,Rafael Castro Souza,539.030.751-83,1976-01-24,Masculino,2015-11-17,,,Engenheiro de Software Júnior,Tecnologia,Campinas,0010007,9019.46,CLT,2024-09-01
+0011057,Isabela Barbosa Gomes,975.476.460-34,1982-01-14,Feminino,2024-09-03,,,Operador de Logística Júnior,Operações,São Paulo,0010145,2595.83,CLT,2024-09-03
+0011067,Isabela Lima Castro,526.044.890-15,1985-09-21,Feminino,2024-10-25,,,Operador de Logística Júnior,Operações,Recife,0010741,2599.24,CLT,2024-10-25
+0010670,André Souza Moreira,107.695.624-69,1997-02-03,Masculino,2015-09-13,,,Analista de RH Júnior,Pessoas,Curitiba,0010653,5785.95,CLT,2024-09-01
+0010906,Eduarda Costa Ferreira,698.768.457-05,1997-03-24,Feminino,2024-01-11,,,Atendente Júnior,Customer Success,Recife,0010373,2429.11,CLT,2024-09-01
+0010008,Bruno Dias Araújo,517.925.013-74,1991-11-17,Masculino,2021-08-25,,,Coordenador de Tecnologia,Tecnologia,Campinas,0010004,19831.29,CLT,2024-09-01
+0011118,Bruno Rocha Teixeira,088.745.948-01,1999-06-15,Masculino,2024-12-01,,,Consultor Comercial Júnior,Comercial,Campinas,0010567,4526.73,CLT,2024-12-01
+0011089,Sofia Araújo Teixeira,920.296.560-97,1990-06-11,Feminino,2024-10-13,,,Consultor Comercial Júnior,Comercial,Campinas,0010539,4028.9,CLT,2024-10-13
+0010571,Ana Souza Teixeira,110.916.894-23,1986-03-16,Feminino,2018-01-08,,,Coordenador de Comercial,Comercial,Curitiba,0010534,8557.17,CLT,2024-09-01
+0010257,Henrique Gomes Lima,747.352.309-04,2003-05-17,Masculino,2021-04-16,,,Operador de Logística Pleno,Operações,São Paulo,0010846,4463.18,CLT,2025-01-08
+0010920,Bruno Santos Souza,662.015.085-38,1983-02-05,Masculino,2024-02-07,,,Operador de Logística Pleno,Operações,Curitiba,0010140,3542.03,CLT,2024-09-01
+0010424,Caio Carvalho Gomes,004.416.524-25,1990-12-05,Masculino,2020-11-05,,,Atendente Pleno,Customer Success,São Paulo,0010705,4065.56,CLT,2024-09-01
+0010497,Mariana Moreira Ribeiro,502.267.446-71,1986-11-03,Feminino,2021-02-20,,,Atendente Pleno,Customer Success,Recife,0010389,3608.76,CLT,2024-09-01
+0010350,Isabela Melo Souza,739.137.352-40,1989-01-23,Feminino,2022-03-15,,,Operador de Logística Pleno,Operações,Campinas,0010134,3915.31,CLT,2024-09-01
+0010070,Daniel Pereira Moreira,302.387.722-09,1978-05-25,Masculino,2016-03-10,,,Engenheiro de Software Júnior,Tecnologia,São Paulo,0010007,8227.29,CLT,2024-09-01
+0010787,Nicolas Silva Souza,295.233.318-17,1996-12-07,Masculino,2023-07-15,,,Operador de Logística Júnior,Operações,Recife,0010135,2756.33,CLT,2024-09-01
+0010403,Rafael Santos Araújo,676.833.917-60,1976-09-18,Masculino,2022-08-10,,,Coordenador de Atendimento,Customer Success,Recife,0010914,5485.97,CLT,2024-09-01
+0010917,Igor Rocha Martins,267.563.572-39,1987-06-05,Masculino,2024-02-18,,,Engenheiro de Software Júnior,Tecnologia,Campinas,0010005,7174.95,CLT,2024-09-01
+0010622,Eduardo Martins Santos,826.223.372-72,2003-12-03,Masculino,2021-11-09,,,Analista Financeiro Sênior,Financeiro,São Paulo,0010612,10409.32,CLT,2024-09-01
+0010281,Bruno Vieira Oliveira,164.049.383-24,1992-02-14,Masculino,2021-05-12,,,Operador de Logística Júnior,Operações,São Paulo,0010721,3001.28,Temporário,2024-09-01
+0010296,Beatriz Barbosa Rocha,089.315.959-05,1993-02-20,Feminino,2022-06-02,,,Operador de Logística Pleno,Operações,Recife,0010134,3740.93,CLT,2024-09-01
+0010876,Nicolas Castro Silva,353.478.209-77,1991-01-18,Masculino,2023-11-15,,,Operador de Logística Júnior,Operações,São Paulo,0010303,2676.16,Temporário,2024-09-01
+0011077,Patrícia Melo Souza,175.930.001-25,1982-07-09,Feminino,2024-10-09,,,Operador de Logística Pleno,Operações,Campinas,0011053,3785.64,CLT,2024-12-26
