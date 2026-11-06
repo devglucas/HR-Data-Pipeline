@@ -1,0 +1,181 @@
+mes,departamento,headcount
+2023-01-01,Comercial,77
+2023-01-01,Customer Success,166
+2023-01-01,Financeiro,39
+2023-01-01,Operações,243
+2023-01-01,Pessoas,24
+2023-01-01,Tecnologia,122
+2023-02-01,Comercial,78
+2023-02-01,Customer Success,167
+2023-02-01,Financeiro,40
+2023-02-01,Operações,245
+2023-02-01,Pessoas,25
+2023-02-01,Tecnologia,123
+2023-03-01,Comercial,78
+2023-03-01,Customer Success,168
+2023-03-01,Financeiro,40
+2023-03-01,Operações,246
+2023-03-01,Pessoas,25
+2023-03-01,Tecnologia,124
+2023-04-01,Comercial,79
+2023-04-01,Customer Success,169
+2023-04-01,Financeiro,40
+2023-04-01,Operações,247
+2023-04-01,Pessoas,25
+2023-04-01,Tecnologia,124
+2023-05-01,Comercial,79
+2023-05-01,Customer Success,169
+2023-05-01,Financeiro,40
+2023-05-01,Operações,248
+2023-05-01,Pessoas,25
+2023-05-01,Tecnologia,125
+2023-06-01,Comercial,79
+2023-06-01,Customer Success,170
+2023-06-01,Financeiro,40
+2023-06-01,Operações,249
+2023-06-01,Pessoas,25
+2023-06-01,Tecnologia,125
+2023-07-01,Comercial,80
+2023-07-01,Customer Success,171
+2023-07-01,Financeiro,41
+2023-07-01,Operações,250
+2023-07-01,Pessoas,25
+2023-07-01,Tecnologia,126
+2023-08-01,Comercial,80
+2023-08-01,Customer Success,172
+2023-08-01,Financeiro,41
+2023-08-01,Operações,251
+2023-08-01,Pessoas,25
+2023-08-01,Tecnologia,126
+2023-09-01,Comercial,80
+2023-09-01,Customer Success,172
+2023-09-01,Financeiro,41
+2023-09-01,Operações,252
+2023-09-01,Pessoas,25
+2023-09-01,Tecnologia,127
+2023-10-01,Comercial,81
+2023-10-01,Customer Success,173
+2023-10-01,Financeiro,41
+2023-10-01,Operações,253
+2023-10-01,Pessoas,25
+2023-10-01,Tecnologia,127
+2023-11-01,Comercial,81
+2023-11-01,Customer Success,174
+2023-11-01,Financeiro,41
+2023-11-01,Operações,254
+2023-11-01,Pessoas,25
+2023-11-01,Tecnologia,128
+2023-12-01,Comercial,81
+2023-12-01,Customer Success,175
+2023-12-01,Financeiro,41
+2023-12-01,Operações,256
+2023-12-01,Pessoas,26
+2023-12-01,Tecnologia,129
+2024-01-01,Comercial,82
+2024-01-01,Customer Success,175
+2024-01-01,Financeiro,42
+2024-01-01,Operações,257
+2024-01-01,Pessoas,26
+2024-01-01,Tecnologia,129
+2024-02-01,Comercial,82
+2024-02-01,Customer Success,176
+2024-02-01,Financeiro,42
+2024-02-01,Operações,258
+2024-02-01,Pessoas,26
+2024-02-01,Tecnologia,130
+2024-03-01,Comercial,82
+2024-03-01,Customer Success,177
+2024-03-01,Financeiro,42
+2024-03-01,Operações,259
+2024-03-01,Pessoas,26
+2024-03-01,Tecnologia,130
+2024-04-01,Comercial,83
+2024-04-01,Customer Success,178
+2024-04-01,Financeiro,42
+2024-04-01,Operações,260
+2024-04-01,Pessoas,26
+2024-04-01,Tecnologia,131
+2024-05-01,Comercial,83
+2024-05-01,Customer Success,178
+2024-05-01,Financeiro,42
+2024-05-01,Operações,261
+2024-05-01,Pessoas,26
+2024-05-01,Tecnologia,131
+2024-06-01,Comercial,83
+2024-06-01,Customer Success,179
+2024-06-01,Financeiro,42
+2024-06-01,Operações,262
+2024-06-01,Pessoas,26
+2024-06-01,Tecnologia,132
+2024-07-01,Comercial,84
+2024-07-01,Customer Success,180
+2024-07-01,Financeiro,43
+2024-07-01,Operações,263
+2024-07-01,Pessoas,26
+2024-07-01,Tecnologia,132
+2024-08-01,Comercial,84
+2024-08-01,Customer Success,145
+2024-08-01,Financeiro,43
+2024-08-01,Operações,264
+2024-08-01,Pessoas,26
+2024-08-01,Tecnologia,133
+2024-09-01,Comercial,84
+2024-09-01,Customer Success,145
+2024-09-01,Financeiro,43
+2024-09-01,Operações,266
+2024-09-01,Pessoas,26
+2024-09-01,Tecnologia,134
+2024-10-01,Comercial,85
+2024-10-01,Customer Success,146
+2024-10-01,Financeiro,43
+2024-10-01,Operações,267
+2024-10-01,Pessoas,27
+2024-10-01,Tecnologia,134
+2024-11-01,Comercial,85
+2024-11-01,Customer Success,146
+2024-11-01,Financeiro,43
+2024-11-01,Operações,268
+2024-11-01,Pessoas,27
+2024-11-01,Tecnologia,135
+2024-12-01,Comercial,86
+2024-12-01,Customer Success,147
+2024-12-01,Financeiro,44
+2024-12-01,Operações,269
+2024-12-01,Pessoas,27
+2024-12-01,Tecnologia,135
+2025-01-01,Comercial,86
+2025-01-01,Customer Success,148
+2025-01-01,Financeiro,44
+2025-01-01,Operações,270
+2025-01-01,Pessoas,27
+2025-01-01,Tecnologia,136
+2025-02-01,Comercial,86
+2025-02-01,Customer Success,148
+2025-02-01,Financeiro,44
+2025-02-01,Operações,271
+2025-02-01,Pessoas,27
+2025-02-01,Tecnologia,136
+2025-03-01,Comercial,87
+2025-03-01,Customer Success,149
+2025-03-01,Financeiro,44
+2025-03-01,Operações,272
+2025-03-01,Pessoas,27
+2025-03-01,Tecnologia,137
+2025-04-01,Comercial,87
+2025-04-01,Customer Success,149
+2025-04-01,Financeiro,44
+2025-04-01,Operações,273
+2025-04-01,Pessoas,27
+2025-04-01,Tecnologia,137
+2025-05-01,Comercial,87
+2025-05-01,Customer Success,150
+2025-05-01,Financeiro,44
+2025-05-01,Operações,274
+2025-05-01,Pessoas,27
+2025-05-01,Tecnologia,138
+2025-06-01,Comercial,88
+2025-06-01,Customer Success,150
+2025-06-01,Financeiro,45
+2025-06-01,Operações,275
+2025-06-01,Pessoas,27
+2025-06-01,Tecnologia,138

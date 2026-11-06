@@ -1,0 +1,11 @@
+origem,motivo,linhas
+afastamento,repetido,20
+afastamento,periodo_sobreposto,15
+afastamento,fim_antes_do_inicio,6
+afastamento,sem_data_fim,4
+foto,linha_duplicada_antiga,53
+foto,salario_fora_da_faixa,29
+foto,gestor_inexistente,15
+foto,admissao_no_futuro,12
+foto,cpf_invalido,12
+foto,vigencia_apos_desligamento,10

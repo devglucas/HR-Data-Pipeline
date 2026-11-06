@@ -1,0 +1,19 @@
+departamento,dias,admitidos,sairam,taxa_saida
+Comercial,90,77,16,0.2078
+Comercial,180,66,15,0.2273
+Comercial,365,51,20,0.3922
+Customer Success,90,159,12,0.0755
+Customer Success,180,144,26,0.1806
+Customer Success,365,111,39,0.3514
+Financeiro,90,11,1,0.0909
+Financeiro,180,10,1,0.1000
+Financeiro,365,5,0,0.0000
+Operações,90,209,22,0.1053
+Operações,180,188,25,0.1330
+Operações,365,142,39,0.2746
+Pessoas,90,7,0,0.0000
+Pessoas,180,7,0,0.0000
+Pessoas,365,5,0,0.0000
+Tecnologia,90,40,0,0.0000
+Tecnologia,180,35,4,0.1143
+Tecnologia,365,26,6,0.2308

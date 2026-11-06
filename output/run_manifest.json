@@ -1,0 +1,35 @@
+{
+  "executado_em": "2026-11-06T01:09:50+00:00",
+  "sucesso": true,
+  "duracao_s": 3.22,
+  "migracoes_aplicadas": [
+    "001_esquemas.sql",
+    "002_modelo_rh.sql",
+    "003_controle.sql",
+    "004_indicadores.sql",
+    "005_lgpd.sql"
+  ],
+  "fotos_carregadas": 30,
+  "folha": {
+    "linhas": 21636,
+    "repetidas": 30,
+    "sem_vinculo": 0
+  },
+  "afastamentos": {
+    "inseridos": 1969,
+    "rejeitados": 30,
+    "sobrepostos": 15
+  },
+  "anonimizacao": {
+    "vinculos": 1230,
+    "publicados": 1167,
+    "suprimidos": 63,
+    "menor_grupo": 5,
+    "k": 5
+  },
+  "verificacoes": {
+    "total": 19,
+    "criticas_com_falha": 0,
+    "alertas": 3
+  }
+}
